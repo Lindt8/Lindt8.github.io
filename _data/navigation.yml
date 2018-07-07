@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Coding projects"
+    url: /code-projects/
 
   - title: "Guide"
     url: /markdown/
