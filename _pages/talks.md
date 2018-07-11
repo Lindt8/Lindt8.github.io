@@ -7,13 +7,13 @@ redirect_from:
   - /presentations
 ---
 
+{% include base_path %}
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         }
 </style>
-
-{% include base_path %}
 
 test
 
@@ -23,7 +23,7 @@ test
 2018
 ------
 | 2        | The radiation environment on the Martian surface: </br>A modeling challenge and benchmarking opportunity |
-|----------|----------------------------------------------------------------------------------------------------------|
+| -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | James E. Turner Back to School Lecture Series                                                            |
 | Host     | Roane State Community College, Oak Ridge campus                                                          |
 | Location | Oak Ridge, TN                                                                                            |
@@ -33,17 +33,17 @@ test
 2016
 ------
 | 1        | Overview of model evaluation: "MCNP6"       |
-|----------|---------------------------------------------|
+| -------- |---------------------------------------------|
 | Event    | Mars Space Radiation Modeling Workshop 2016 |
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 29 June 2016                                |
 {: .tablelines}
 
-Talks Map
+Map
 ------
 
-Below is an interactive map of where all of these talks were given.  The numbers on the map correspond to the numbers to the left of each talk's title.
+Below is an interactive map showing where all of these talks were given.  The numbers on the map correspond to the numbers to the left of each talk's title.
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
