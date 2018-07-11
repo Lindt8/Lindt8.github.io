@@ -15,13 +15,10 @@ redirect_from:
         }
 </style>
 
-test
-
-<!-- [Click to view a map of all of the talks I have given.](http://lindt8.github.io/talkmap.html) -->
-
 
 2018
 ------
+
 | 2        | The radiation environment on the Martian surface: </br>A modeling challenge and benchmarking opportunity |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | James E. Turner Back to School Lecture Series                                                            |
@@ -32,6 +29,7 @@ test
 
 2016
 ------
+
 | 1        | Overview of model evaluation: "MCNP6"       |
 | -------- |---------------------------------------------|
 | Event    | Mars Space Radiation Modeling Workshop 2016 |
@@ -49,4 +47,5 @@ Below is an interactive map showing where all of these talks were given.  The nu
 
 
 
+<!-- [Click to view a map of all of the talks I have given.](http://lindt8.github.io/talkmap.html) -->
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->
