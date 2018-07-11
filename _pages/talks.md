@@ -26,7 +26,7 @@ redirect_from:
 | Host     | Roane State Community College, Oak Ridge campus                                                          |
 | Location | Oak Ridge, TN                                                                                            |
 | Date     | 24 February 2018                                                                                         |
-
+{: .tablelines}
 
 2016
 ------
@@ -36,7 +36,7 @@ redirect_from:
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 29 June 2016                                |
-
+{: .tablelines}
 
 Below is an interactive map of where all of these talks were given.  The numbers on the map correspond to the numbers to the left of each talk's title.
 
