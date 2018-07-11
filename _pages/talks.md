@@ -21,7 +21,7 @@ redirect_from:
 2018
 ------
 | 2        | The radiation environment on the Martian surface: </br>A modeling challenge and benchmarking opportunity |
-| -------- | -------------------------------------------------------------------------------------------------------- |
+|----------|----------------------------------------------------------------------------------------------------------|
 | Event    | James E. Turner Back to School Lecture Series                                                            |
 | Host     | Roane State Community College, Oak Ridge campus                                                          |
 | Location | Oak Ridge, TN                                                                                            |
@@ -31,7 +31,7 @@ redirect_from:
 2016
 ------
 | 1        | Overview of model evaluation: "MCNP6"       |
-| -------- | ------------------------------------------- |
+|----------|---------------------------------------------|
 | Event    | Mars Space Radiation Modeling Workshop 2016 |
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
