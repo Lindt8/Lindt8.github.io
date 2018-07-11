@@ -34,8 +34,9 @@ redirect_from:
 
 Below is an interactive map of where all of these talks were given.  The numbers on the map correspond to the numbers to the left of each talk's title.
 
+<!--
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
-
+ -->
 
 
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->
