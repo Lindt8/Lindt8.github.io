@@ -7,21 +7,19 @@ redirect_from:
   - /presentations
 ---
 
+{% include base_path %}
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         }
 </style>
 
-{% include base_path %}
-
-
 <!-- [Click to view a map of all of the talks I have given.](http://lindt8.github.io/talkmap.html) -->
 
 
 2018
 ------
-
 | 2        | The radiation environment on the Martian surface: </br>A modeling challenge and benchmarking opportunity |
 |----------|----------------------------------------------------------------------------------------------------------|
 | Event    | James E. Turner Back to School Lecture Series                                                            |
@@ -32,7 +30,6 @@ redirect_from:
 
 2016
 ------
-
 | 1        | Overview of model evaluation: "MCNP6"       |
 |----------|---------------------------------------------|
 | Event    | Mars Space Radiation Modeling Workshop 2016 |
