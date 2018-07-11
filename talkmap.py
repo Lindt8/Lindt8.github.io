@@ -24,7 +24,7 @@ location = ""
 permalink = ""
 title = ""
 
-
+'''
 for file in g:
     with open(file, 'r') as f:
         lines = f.read()
@@ -37,7 +37,15 @@ for file in g:
            
         location_dict[location] = geocoder.geocode(location)
         print(location, "\n", location_dict[location])
+'''
 
+loc_list = ['1050 Walnut Street, Suite 300, Boulder, CO 80302',
+            '701 Briarcliff Avenue, Oak Ridge, TN 37830']
+
+for i in range(len(loc_list)):
+    location = loc_list[i]
+    location_dict[location] = geocoder.geocode(location)
+    print(location, "\n", location_dict[location])
 
 m = getorg.orgmap.create_map_obj()
 getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
