@@ -7,13 +7,14 @@ redirect_from:
   - /presentations
 ---
 
-{% include base_path %}
-
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         }
 </style>
+
+{% include base_path %}
+
 
 <!-- [Click to view a map of all of the talks I have given.](http://lindt8.github.io/talkmap.html) -->
 
