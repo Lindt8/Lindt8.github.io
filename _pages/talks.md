@@ -38,6 +38,9 @@ redirect_from:
 | Date     | 29 June 2016                                |
 {: .tablelines}
 
+Talks Map
+------
+
 Below is an interactive map of where all of these talks were given.  The numbers on the map correspond to the numbers to the left of each talk's title.
 
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
