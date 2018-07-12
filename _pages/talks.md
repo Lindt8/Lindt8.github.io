@@ -13,14 +13,11 @@ redirect_from:
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         }
-.tablelines table {
-      table-layout: fixed;
-        }
-.fixed-width {
-      width: 100px;
-               }
-.col-1 {
-          width: 8.3333333333%;
+.tablelines th, .tablelines td {
+          width: 250px;
+        }     
+.tablelines th:first-child,  .tablelines td:first-child {
+          width: 100px;
         }
 </style>
 
