@@ -19,7 +19,7 @@ redirect_from:
 2018
 ------
 
-| 2        | The radiation environment on the Martian surface: A modeling challenge and benchmarking opportunity |
+| 2        | The radiation environment on the Martian surface: <br>A modeling challenge and benchmarking opportunity |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | James E. Turner Back to School Lecture Series                                                            |
 | Host     | Roane State Community College, Oak Ridge campus                                                          |
