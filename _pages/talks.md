@@ -14,7 +14,7 @@ redirect_from:
         border: 1px solid black;
         }
 .tablelines th, .tablelines td {
-          width: 100px;
+          width: 400px;
         }     
 .tablelines th:first-child,  .tablelines td:first-child {
           width: 30px;
