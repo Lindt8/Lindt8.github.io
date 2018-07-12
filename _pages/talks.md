@@ -13,6 +13,12 @@ redirect_from:
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
         }
+table {
+            width:100%;
+        }
+.col-1 {
+          width: 8.3333333333%;
+        }
 </style>
 
 
