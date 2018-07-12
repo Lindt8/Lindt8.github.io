@@ -17,7 +17,7 @@ redirect_from:
           width: 250px;
         }     
 .tablelines th:first-child,  .tablelines td:first-child {
-          width: 100px;
+          width: 30px;
         }
 </style>
 
