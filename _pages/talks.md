@@ -14,10 +14,10 @@ redirect_from:
         border: 1px solid black;
         }
 .tablelines th, .tablelines td {
-          width: 400px;
+          width: 100%;
         }     
 .tablelines th:first-child,  .tablelines td:first-child {
-          width: 30px;
+          width: 8%;
         }
 </style>
 
