@@ -378,7 +378,7 @@ select:focus {
   padding: 8px 20px;
   display: inline-block;
   font-size: $type-size-6;
-  background-color: #fff;
+  background-color: $background-color;
   color: #000;
   border-width: 2px !important;
   border-style: solid !important;
