@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Coding projects"
-    url: /code-projects/
+  - title: "Professional coding projects"
+    url: /professional-code-projects/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Hobby coding projects"
+    url: /hobby-code-projects/
