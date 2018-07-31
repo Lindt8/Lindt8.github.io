@@ -16,21 +16,21 @@ table {
 }
 
 thead {
-  background-color: $gray;
-  border-bottom: 1px solid $dark-gray;
+  background-color: $lighter-gray;
+  border-bottom: 1px solid $light-gray;
 }
 
 th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $dark-gray;
+  border-right: 1px solid $light-gray;
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 1px solid $dark-gray;
-  border-right: 1px solid $dark-gray;
+  border-bottom: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
 }
 
 tr, td, th {
