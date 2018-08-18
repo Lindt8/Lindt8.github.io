@@ -1,6 +1,5 @@
 ---
 layout: compress
-additional_head_content: <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 ---
 
 {% include base_path %}
@@ -8,6 +7,7 @@ additional_head_content: <meta http-equiv="Content-Security-Policy" content="upg
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     {% include head.html %}
     {% include head/custom.html %}
   </head>
