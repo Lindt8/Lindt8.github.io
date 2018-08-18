@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student studying nuclear engineering at The University of Tennessee, Knoxville.  I plan to defend my dissertation in late fall of 2018.
+I am a PhD student studying nuclear engineering at The University of Tennessee, Knoxville.  I will be defending my dissertation in fall of 2018.
 
 Research interests
 ======
@@ -24,11 +24,11 @@ My programming language of choice is Python, though I also know Fortran, Matlab,
 
 Personal interests
 ======
-I enjoy watching science, mathematics, technology, business, geography, history, food, and travel videos on YouTube (of course with a healthy dose of comedy sprinkled in).  Additionally, I really enjoy watching documentaries; the travel genre in particular generally lends itself well to the longer format of documentaries.
+I enjoy watching science, mathematics, technology, business, geography, history, food, and travel videos on YouTube (with a healthy dose of comedy sprinkled in too).  Additionally, I really enjoy watching documentaries; the travel genre in particular generally lends itself well to the longer format of documentaries.
 
-I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the Hobby Projects page of this website (work in progress).  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things to make my internet experience easier such as writing a custom HTML/CSS new tab page as well as a Windows batch script I can use to automatically launch all of the tabs I wish to check every morning.  In a way, composing this website also plays into this hobby of mine.
+I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the Hobby Projects page of this website.  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things to make my internet experience easier such as writing a custom HTML/CSS new tab page as well as a Windows batch script I can use to automatically launch all of the tabs I wish to check every morning.  In a way, composing this website also plays into this hobby of mine.
 
-Like most people of my generation, I also enjoy video games.  In particular for me, I have an interest in PC gaming as well as a general interest in technology.  I built my own PC in early 2016 (right before the insane rise in RAM and GPU prices), and the researching of parts, purchasing, and assembly were all enjoyable experiences.
+Like most people of my generation, I also enjoy video games.  In particular for me, I have an interest in PC gaming as well as a general interest in technology.  I built my own PC in early 2016 (right before the sharp rise in RAM and GPU prices), and the researching of parts, purchasing, and assembly were all enjoyable experiences.
 
 Short bio
 ======
