@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to view my Curriculum Vitae. [PDF]](https://hratliff.com/files/CV_Hunter_Ratliff.pdf)
+<u>[Click to view my Curriculum Vitae. [PDF]](https://hratliff.com/files/CV_Hunter_Ratliff.pdf)</u>
 
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->
