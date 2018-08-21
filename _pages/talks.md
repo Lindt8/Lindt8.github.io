@@ -27,8 +27,8 @@ redirect_from:
 
 | Title    | Secondary neutron yields from thick-target GCR accelerator experiments               |
 | -------- | ------------------------------------------------------------------------------------ |
-| Event    | 20th Topical Meeting of the Radiation Protection and Shielding Division Conference   |
-| Host     | American Nuclear Society                                                             |
+| Event    | 20th Topical Meeting of the Radiation Protection and Shielding Division of the American Nuclear Society (Conference)   |
+| Host     | Radiation Protection and Shielding Division of the American Nuclear Society          |
 | Location | Santa Fe, NM                                                                         |
 | Date     | 29 August 2018                                                                       |
 {: .tablelines}
