@@ -25,6 +25,15 @@ redirect_from:
 2018
 ------
 
+| Title    | Secondary neutron yields from thick-target GCR accelerator experiments               |
+| -------- | ------------------------------------------------------------------------------------ |
+| Event    | 20th Topical Meeting of the Radiation Protection and Shielding Division Conference   |
+| Host     | American Nuclear Society                                                             |
+| Location | Santa Fe, NM                                                                         |
+| Date     | 29 August 2018                                                                       |
+{: .tablelines}
+
+
 | Title    | The radiation environment on the Martian surface: A modeling challenge and benchmarking opportunity      |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | James E. Turner Back to School Lecture Series                                                            |
