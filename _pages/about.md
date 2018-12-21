@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student studying nuclear engineering at The University of Tennessee, Knoxville.  I will be defending my dissertation in fall of 2018.
+I have just graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville (December 2018).  I will be a postdoctoral fellow/researcher at the Japan Atomic Energy Agency headquarters starting in Spring 2019.
 
 Research interests
 ======
@@ -41,4 +41,5 @@ While in grad school, I have worked on numerous space radiation modeling project
 
 Recent news
 ======
-* 7 July 2018 - This site was created.
+* 2018/12/15 - Graduated with a PhD in nuclear engineering from the University of Tennessee, Knoxville.
+* 2018/07/07 - This site was created.
