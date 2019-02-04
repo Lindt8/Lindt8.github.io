@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hunter Ratliff"
 title_separator          : "-"
 name                     : &name "Hunter Ratliff"
-description              : &description "PhD student at UT Knoxville"
+description              : &description "Researcher"
 url                      : https://lindt8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lindt8/Lindt8.github.io"
@@ -89,8 +89,8 @@ analytics:
 author:
   name             : "Hunter Ratliff"
   avatar           : "profile.png"
-  bio              : "PhD student at UT Knoxville"
-  location         : "Knoxville, TN"
+  bio              : "UT Knoxville PhD graduate"
+  location         : "Tullahoma, TN"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=PypR0lIAAAAJ&hl=en"
   email            :
