@@ -28,4 +28,4 @@ D. Matthiä, D.M. Hassler, W. de Wet, B. Ehresmann, A. Firan, J. Flores-McLaughl
 
 Technical Notes
 -----
-"[__Cartesian formulas for curvature, circumradius, and circumcenter for any three two-dimensional points__](https://hratliff.com/files/curvature_calculations_and_circle_fitting.pdf)," <u>H.N. Ratliff</u>, February 2019, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2556424.svg)](https://doi.org/10.5281/zenodo.2556424).
+* "[__Cartesian formulas for curvature, circumradius, and circumcenter for any three two-dimensional points__](https://hratliff.com/files/curvature_calculations_and_circle_fitting.pdf)," <u>H.N. Ratliff</u>, February 2019, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2556424.svg)](https://doi.org/10.5281/zenodo.2556424).
