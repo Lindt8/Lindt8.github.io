@@ -22,7 +22,7 @@ redirect_from:
 </style>
 
 
-2018 &ensp; <font size=4pt>(<font color="#C1751F">UTK</font>)</font>
+2018 &ensp; (<font color="#C1751F">UTK</font>)
 ------
 | Title    | Overview of model evaluation: "MCNP6" (2018)|
 | -------- | ------------------------------------------- |
@@ -50,7 +50,7 @@ redirect_from:
 | Date     | 24 February 2018                                                                                         |
 {: .tablelines}
 
-2016 &ensp;(<font size=4pt font color="#C1751F">UTK</font>)
+2016 &ensp;(<font color="#C1751F">UTK</font>)
 ------
 
 | Title    | Overview of model evaluation: "MCNP6" (2016)|
