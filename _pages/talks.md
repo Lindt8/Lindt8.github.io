@@ -31,7 +31,7 @@ redirect_from:
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 17 October 2018                             |
-| Co-pres. | Michael B. Smith (Oak Ridge National Laboratory) |
+| Co-pres. | Michael B.R. Smith (Oak Ridge National Laboratory) |
 {: .tablelines}
 
 | Title    | Secondary neutron yields from thick-target GCR accelerator experiments               |
@@ -60,7 +60,7 @@ redirect_from:
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 29 June 2016                                |
-| Co-pres. | Michael B. Smith (University of Tennessee, Knoxville) |
+| Co-pres. | Michael B.R. Smith (University of Tennessee, Knoxville) |
 {: .tablelines}
 
 Map
