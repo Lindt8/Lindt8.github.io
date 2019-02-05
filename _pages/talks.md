@@ -22,8 +22,16 @@ redirect_from:
 </style>
 
 
-2018
+2018 &ensp;<font size=4pt>(<font color="#C1751F">UTK</font>)</font>
 ------
+| Title    | Overview of model evaluation: "MCNP6" (2018)|
+| -------- | ------------------------------------------- |
+| Event    | Mars Space Radiation Modeling Workshop 2018 |
+| Host     | Southwest Research Institute                |
+| Location | Boulder, CO                                 |
+| Date     | 17 October 2018                             |
+| Co-pres. | Michael B. Smith, Oak Ridge National Laboratory |
+{: .tablelines}
 
 | Title    | Secondary neutron yields from thick-target GCR accelerator experiments               |
 | -------- | ------------------------------------------------------------------------------------ |
@@ -42,10 +50,10 @@ redirect_from:
 | Date     | 24 February 2018                                                                                         |
 {: .tablelines}
 
-2016
+2016 &ensp;<font size=4pt>(<font color="#C1751F">UTK</font>)</font>
 ------
 
-| Title    | Overview of model evaluation: "MCNP6"       |
+| Title    | Overview of model evaluation: "MCNP6" (2016)|
 | -------- | ------------------------------------------- |
 | Event    | Mars Space Radiation Modeling Workshop 2016 |
 | Host     | Southwest Research Institute                |
