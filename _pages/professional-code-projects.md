@@ -17,7 +17,7 @@ I have worked on a number of professional coding projects (or relevant personal 
 This is a Jupyter notebook for conveniently viewing and comparing the data collected from the measurements of double-differential secondary particle yields from intermediate-energy hadrons incident on thick-targets. These experimental measurements were made at the NASA Space Radiation Laboratory on the Brookhaven National Laboratory campus.  
 
 
-[<u>GCR-SpecGen</u>](https://github.com/Lindt8/GCR_SpecGen)
+[<u>GCR-SpecGen</u>](https://github.com/Lindt8/GCR_SpecGen) [![DOI](https://zenodo.org/badge/139750602.svg)](https://zenodo.org/badge/latestdoi/139750602)
 ======
 ### Galactic Cosmic Ray Spectra Generator
 This is a Jupyter notebook for conveniently generating GCR spectra using the [GCR model developed by Dr. Daniel Matthiä](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
