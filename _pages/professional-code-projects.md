@@ -20,7 +20,7 @@ This is a Jupyter notebook for conveniently viewing and comparing the data colle
 [<u>GCR-SpecGen</u>](https://github.com/Lindt8/GCR_SpecGen)
 ======
 ### Galactic Cosmic Ray Spectra Generator
-This is a Jupyter notebook for conveniently generating GCR spectra using the model developed by Dr. Daniel Matthiä.  More about his model can be found [<u>here</u>](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  This code is a side project which is still a work in progress with more features planned.
+This is a Jupyter notebook for conveniently generating GCR spectra using the [GCR model developed by Dr. Daniel Matthiä](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
 
 [<u>CLSQ2</u>](https://github.com/Lindt8/CLSQ2)
 ======
