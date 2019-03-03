@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have just graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville (December 2018).  I will be a postdoctoral fellow/researcher at the Japan Atomic Energy Agency headquarters starting in April 2019.
+I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018 and am presently a postdoctoral fellow/researcher at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center.
 
 Research interests
 ======
