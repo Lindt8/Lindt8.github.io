@@ -27,7 +27,7 @@ redirect_from:
 
 | Title    | Improvements to DCHAIN and its data libraries |
 | -------- | ------------------------------------------------ |
-| Event    | Atomic Energy Society of Japan 2019 Fall Meeting |
+| Event    | Atomic Energy Society of Japan 2019 Fall Meeting (Conference) |
 | Host     | University of Toyama, Gofuku Campus              |
 | Location | Toyama City, Toyama, Japan                       |
 | Date     | 11 September 2019                                |
