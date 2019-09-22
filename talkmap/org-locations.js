@@ -11,7 +11,12 @@ var addressPoints = [
   ],
   [
     "828 Paseo De Peralta, Santa Fe, NM 87501",
-    35.6915324,
-    -105.9374711
+    35.686505,
+    -105.9347528
+  ],
+  [
+    "Gofuku, Toyama-shi, Toyama-ken, Japan",
+    36.6987382,
+    137.186672833323
   ]
 ];

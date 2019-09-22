@@ -22,6 +22,17 @@ redirect_from:
 </style>
 
 
+2019 &ensp;(<font color="#C1751F">UTK</font>)
+------
+
+| Title    | Improvements to DCHAIN and its data libraries |
+| -------- | ------------------------------------------------ |
+| Event    | Atomic Energy Society of Japan 2019 Fall Meeting |
+| Host     | University of Toyama, Gofuku Campus              |
+| Location | Toyama City, Toyama, Japan                       |
+| Date     | 11 September 2019                                |
+{: .tablelines}
+
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
 
