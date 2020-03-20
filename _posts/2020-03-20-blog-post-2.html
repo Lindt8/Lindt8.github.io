@@ -130,72 +130,70 @@ Input people and the amounts expended by each into the fields below with entries
 
 <b>Python function for cost redistribution</b>
 
-[[Download link of Python file]](https://hratliff.com/files/cost_distribution.py)
+<a href="https://hratliff.com/files/cost_distribution.py">[Download link of Python file]</a>
 
-
-```python
-'''
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s">'''
 Cost redistribution function
 written by Hunter Ratliff
-'''
-def caclulate_cost_distribution(people,expenses,decimal_precision=0,sorting_on=False):
-    '''
+'''</span>
+<span class="k">def</span> <span class="nf">caclulate_cost_distribution</span><span class="p">(</span><span class="n">people</span><span class="p">,</span><span class="n">expenses</span><span class="p">,</span><span class="n">decimal_precision</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span><span class="n">sorting_on</span><span class="o">=</span><span class="bp">False</span><span class="p">):</span>
+    <span class="s">'''
     Inputs:
        people = list of strings of names
        expenses = list of integers/floats of the amounts paid by each person (length must be same as people)
     Outputs:
        cost_str = string describing the transfers necessary to make expenditures even across all people
-    '''
-    p,x = people,expenses
-    dpadd = 0
-    if decimal_precision > 0:
-        dpadd = decimal_precision + 1
-    if sorting_on:
-        p = [i for _,i in sorted(zip(x,p))] # reorder people based on amount
-        x.sort() # reorder corresponding amount list
-    T = sum(x) # total expended
-    o = [(T/len(x)) - i for i in x] # amount owed by each
-    d  = [] # debtors
-    da = [] # amounts owed (positive)
-    c  = [] # collectors
-    ca = [] # amounts to be collected (negative)
-    for i in range(len(x)):
-        if o[i]<0:
-            c.append(p[i])
-            ca.append(o[i])
-        else:
-            d.append(p[i])
-            da.append(o[i])
-    if sorting_on:
-        c.reverse()
-        ca.reverse()
-    ci, di = 0, 0
-    cost_str = ''
-    max_name_len = max([len(i) for i in p])
-    name_format_lstr = '{:>' + str(int(max_name_len)) + '}'
-    name_format_rstr = '{:' + str(int(max_name_len)) + '}'
-    transactions = []
-    while abs(sum(da))>=1e-3:
-        if da[di] <= -1*ca[ci]:
-            d2c = da[di]
-        else:
-            d2c = -1*ca[ci]
-        ca[ci] += d2c
-        da[di] += -1*d2c
-        transactions.append([d[di],d2c,c[ci]])
-        if ca[ci]==0: ci += 1
-        if da[di]==0: di += 1
-    max_transfer = max([transactions[i][1] for i in range(len(transactions))])
-    number_format_str = ' --({:' + str(dpadd+len(str(int(max_transfer)))) + '.' + str(int(decimal_precision)) + 'f})--> '
-    for i in range(len(transactions)):
-        cost_str += name_format_lstr.format(transactions[i][0]) + number_format_str.format(transactions[i][1]) + name_format_rstr.format(transactions[i][2]) + '\n'
-    return cost_str
+    '''</span>
+    <span class="n">p</span><span class="p">,</span><span class="n">x</span> <span class="o">=</span> <span class="n">people</span><span class="p">,</span><span class="n">expenses</span>
+    <span class="n">dpadd</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="k">if</span> <span class="n">decimal_precision</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="n">dpadd</span> <span class="o">=</span> <span class="n">decimal_precision</span> <span class="o">+</span> <span class="mi">1</span>
+    <span class="k">if</span> <span class="n">sorting_on</span><span class="p">:</span>
+        <span class="n">p</span> <span class="o">=</span> <span class="p">[</span><span class="n">i</span> <span class="k">for</span> <span class="n">_</span><span class="p">,</span><span class="n">i</span> <span class="ow">in</span> <span class="nb">sorted</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">p</span><span class="p">))]</span> <span class="c1"># reorder people based on amount
+</span>        <span class="n">x</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span> <span class="c1"># reorder corresponding amount list
+</span>    <span class="n">T</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">x</span><span class="p">)</span> <span class="c1"># total expended
+</span>    <span class="n">o</span> <span class="o">=</span> <span class="p">[(</span><span class="n">T</span><span class="o">/</span><span class="nb">len</span><span class="p">(</span><span class="n">x</span><span class="p">))</span> <span class="o">-</span> <span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">x</span><span class="p">]</span> <span class="c1"># amount owed by each
+</span>    <span class="n">d</span>  <span class="o">=</span> <span class="p">[]</span> <span class="c1"># debtors
+</span>    <span class="n">da</span> <span class="o">=</span> <span class="p">[]</span> <span class="c1"># amounts owed (positive)
+</span>    <span class="n">c</span>  <span class="o">=</span> <span class="p">[]</span> <span class="c1"># collectors
+</span>    <span class="n">ca</span> <span class="o">=</span> <span class="p">[]</span> <span class="c1"># amounts to be collected (negative)
+</span>    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">x</span><span class="p">)):</span>
+        <span class="k">if</span> <span class="n">o</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">&lt;</span><span class="mi">0</span><span class="p">:</span>
+            <span class="n">c</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">p</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+            <span class="n">ca</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">o</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">d</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">p</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+            <span class="n">da</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">o</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+    <span class="k">if</span> <span class="n">sorting_on</span><span class="p">:</span>
+        <span class="n">c</span><span class="o">.</span><span class="n">reverse</span><span class="p">()</span>
+        <span class="n">ca</span><span class="o">.</span><span class="n">reverse</span><span class="p">()</span>
+    <span class="n">ci</span><span class="p">,</span> <span class="n">di</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span>
+    <span class="n">cost_str</span> <span class="o">=</span> <span class="s">''</span>
+    <span class="n">max_name_len</span> <span class="o">=</span> <span class="nb">max</span><span class="p">([</span><span class="nb">len</span><span class="p">(</span><span class="n">i</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">p</span><span class="p">])</span>
+    <span class="n">name_format_lstr</span> <span class="o">=</span> <span class="s">'{:&gt;'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">max_name_len</span><span class="p">))</span> <span class="o">+</span> <span class="s">'}'</span>
+    <span class="n">name_format_rstr</span> <span class="o">=</span> <span class="s">'{:'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">max_name_len</span><span class="p">))</span> <span class="o">+</span> <span class="s">'}'</span>
+    <span class="n">transactions</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">while</span> <span class="nb">abs</span><span class="p">(</span><span class="nb">sum</span><span class="p">(</span><span class="n">da</span><span class="p">))</span><span class="o">&gt;=</span><span class="mf">1e-3</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">da</span><span class="p">[</span><span class="n">di</span><span class="p">]</span> <span class="o">&lt;=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="n">ca</span><span class="p">[</span><span class="n">ci</span><span class="p">]:</span>
+            <span class="n">d2c</span> <span class="o">=</span> <span class="n">da</span><span class="p">[</span><span class="n">di</span><span class="p">]</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">d2c</span> <span class="o">=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="n">ca</span><span class="p">[</span><span class="n">ci</span><span class="p">]</span>
+        <span class="n">ca</span><span class="p">[</span><span class="n">ci</span><span class="p">]</span> <span class="o">+=</span> <span class="n">d2c</span>
+        <span class="n">da</span><span class="p">[</span><span class="n">di</span><span class="p">]</span> <span class="o">+=</span> <span class="o">-</span><span class="mi">1</span><span class="o">*</span><span class="n">d2c</span>
+        <span class="n">transactions</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">d</span><span class="p">[</span><span class="n">di</span><span class="p">],</span><span class="n">d2c</span><span class="p">,</span><span class="n">c</span><span class="p">[</span><span class="n">ci</span><span class="p">]])</span>
+        <span class="k">if</span> <span class="n">ca</span><span class="p">[</span><span class="n">ci</span><span class="p">]</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="n">ci</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="k">if</span> <span class="n">da</span><span class="p">[</span><span class="n">di</span><span class="p">]</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="n">di</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="n">max_transfer</span> <span class="o">=</span> <span class="nb">max</span><span class="p">([</span><span class="n">transactions</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">transactions</span><span class="p">))])</span>
+    <span class="n">number_format_str</span> <span class="o">=</span> <span class="s">' --({:'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">dpadd</span><span class="o">+</span><span class="nb">len</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">max_transfer</span><span class="p">))))</span> <span class="o">+</span> <span class="s">'.'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">decimal_precision</span><span class="p">))</span> <span class="o">+</span> <span class="s">'f})--&gt; '</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">transactions</span><span class="p">)):</span>
+        <span class="n">cost_str</span> <span class="o">+=</span> <span class="n">name_format_lstr</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="n">transactions</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">0</span><span class="p">])</span> <span class="o">+</span> <span class="n">number_format_str</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="n">transactions</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">1</span><span class="p">])</span> <span class="o">+</span> <span class="n">name_format_rstr</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span><span class="n">transactions</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">2</span><span class="p">])</span> <span class="o">+</span> <span class="s">'</span><span class="se">\n</span><span class="s">'</span>
+    <span class="k">return</span> <span class="n">cost_str</span>
 
-sorting_on = False # order such that people who owe the most will pay first to who owes the most
-p = ['Rick', 'Chris', 'Sohla', 'Brad']
-x = [600, 300, 120, 0]
-dp = 0
+<span class="n">sorting_on</span> <span class="o">=</span> <span class="bp">False</span> <span class="c1"># order such that people who owe the most will pay first to who owes the most
+</span><span class="n">p</span> <span class="o">=</span> <span class="p">[</span><span class="s">'Rick'</span><span class="p">,</span> <span class="s">'Chris'</span><span class="p">,</span> <span class="s">'Sohla'</span><span class="p">,</span> <span class="s">'Brad'</span><span class="p">]</span>
+<span class="n">x</span> <span class="o">=</span> <span class="p">[</span><span class="mi">600</span><span class="p">,</span> <span class="mi">300</span><span class="p">,</span> <span class="mi">120</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span>
+<span class="n">dp</span> <span class="o">=</span> <span class="mi">0</span>
 
-pstr = caclulate_cost_distribution(p,x,decimal_precision=dp,sorting_on=sorting_on)
-print(pstr)
-```
+<span class="n">pstr</span> <span class="o">=</span> <span class="n">caclulate_cost_distribution</span><span class="p">(</span><span class="n">p</span><span class="p">,</span><span class="n">x</span><span class="p">,</span><span class="n">decimal_precision</span><span class="o">=</span><span class="n">dp</span><span class="p">,</span><span class="n">sorting_on</span><span class="o">=</span><span class="n">sorting_on</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">pstr</span><span class="p">)</span>
+</code></pre></div></div>
