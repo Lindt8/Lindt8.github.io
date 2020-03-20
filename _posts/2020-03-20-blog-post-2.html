@@ -14,31 +14,12 @@ Enter into the first field below the list of names of all participants, and in t
 
 <br />
 
+<!--
 test1top
-
 <iframe src="/files/cost_calculator.html" style="width:100%;height:100%;"></iframe>
-
 test1bottom
-
 <br />
-
-
-test2top
-<!--
-<link rel="import" href="/files/cost_calculator_code.html">
 -->
-
-test2mid
-<!--
-<link rel="import" href="/files/cost_calculator.html">
--->
-
-test2bottom
-
-<br />
-
-
-
 
 <div class="example" id="ex16" style="table; white-space: pre-wrap;">
     <p></p><div style="width:80%; padding-left:3em;">
@@ -56,13 +37,7 @@ Input people and the amounts expended by each into the fields below with entries
 <p style="font-family: Courier New, Courier, monospace;"><span id="zone16" class="zone">^ click 'Calculate'</span>
     </p></div>
 
-
-test3top
-
-<script type="text/python" id="script16" src="/files/cost_calculator_pycode.py"></script>
-
-test3bottom
-
+<script type="text/python" id="script16" src="/files/cost_calculator_brython_code.py"></script>
 
 <!--
     <script type="text/python" id="script16">
@@ -153,11 +128,11 @@ test3bottom
 
 <hr>
 
-<!--<b>Python function for cost redistribution</b>-->
+<b>Python function for cost redistribution</b>
 
-<!-- [[Download link of Python file]](https://hratliff.com/files/curvature_functions.py) -->
+[[Download link of Python file]](https://hratliff.com/files/cost_distribution.py)
 
-<!--
+
 ```python
 '''
 Cost redistribution function
@@ -207,25 +182,20 @@ def caclulate_cost_distribution(people,expenses,decimal_precision=0,sorting_on=F
             d2c = -1*ca[ci]
         ca[ci] += d2c
         da[di] += -1*d2c
-        #cost_str += ('{:>8} --({:5.0f})-> {:8}\n'.format(d[di],d2c,c[ci]))
-        #cost_str += name_format_lstr.format(d[di])+' --({:5.0f})-> '.format(d2c)+name_format_rstr.format(c[ci])+'\n'
         transactions.append([d[di],d2c,c[ci]])
         if ca[ci]==0: ci += 1
         if da[di]==0: di += 1
     max_transfer = max([transactions[i][1] for i in range(len(transactions))])
-    number_format_str = ' --({:' + str(dpadd+len(str(int(max_transfer)))) + '.' + str(int(decimal_precision)) + 'f})-> '
+    number_format_str = ' --({:' + str(dpadd+len(str(int(max_transfer)))) + '.' + str(int(decimal_precision)) + 'f})--> '
     for i in range(len(transactions)):
         cost_str += name_format_lstr.format(transactions[i][0]) + number_format_str.format(transactions[i][1]) + name_format_rstr.format(transactions[i][2]) + '\n'
     return cost_str
 
 sorting_on = False # order such that people who owe the most will pay first to who owes the most
-#p = ['Ogawa','Marie','Fabiola','Hunter','Vincent','Fabiana'] # people
-#x = [14650+3600,14650+1000+5000,1000,221,0,0] # amount expended by each
-p = ['Rick', 'Chris', 'Sohla', 'Bradddddd']
+p = ['Rick', 'Chris', 'Sohla', 'Brad']
 x = [600, 300, 120, 0]
 dp = 0
 
 pstr = caclulate_cost_distribution(p,x,decimal_precision=dp,sorting_on=sorting_on)
 print(pstr)
 ```
--->
