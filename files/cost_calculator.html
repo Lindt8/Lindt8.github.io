@@ -1,3 +1,4 @@
+<!--
 <!doctype html>
 <html>
 
@@ -9,7 +10,7 @@
 </head>
 
 <body onload="brython()">
-
+-->
 
 
 <div class="example" id="ex16" style="table; white-space: pre-wrap;">
@@ -27,8 +28,8 @@ Input people and the amounts expended by each into the fields below with entries
 <p><button id="button16">Calculate</button>
 <p style="font-family: Courier New, Courier, monospace;"><span id="zone16" class="zone">^ click 'Calculate'</span>
     </p></div>
-    
-	
+
+
     <script type="text/python" id="script16">
     from browser import document, html
 
@@ -45,7 +46,7 @@ Input people and the amounts expended by each into the fields below with entries
         if decimal_precision > 0:
             dpadd = decimal_precision + 1
         if sorting_on:
-            p = [i for _,i in sorted(zip(x,p))] # reorder people based on amount 
+            p = [i for _,i in sorted(zip(x,p))] # reorder people based on amount
             x.sort() # reorder corresponding amount list
         T = sum(x) # total expended
         o = [(T/len(x)) - i for i in x] # amount owed by each
@@ -86,8 +87,8 @@ Input people and the amounts expended by each into the fields below with entries
         for i in range(len(transactions)):
             cost_str += name_format_lstr.format(transactions[i][0]) + number_format_str.format(transactions[i][1]) + name_format_rstr.format(transactions[i][2]) + '\n'
         return cost_str
-    
-    
+
+
     def show_values(event):
         sorting_on = False # order such that people who owe the most will pay first to who owes the most
         inputa = document["input16a"].value
@@ -98,7 +99,7 @@ Input people and the amounts expended by each into the fields below with entries
         expenses = [float(i) for i in inputb.split(',')]
         cstr = caclulate_cost_distribution(people,expenses,decimal_precision=dp,sorting_on=False)
         cstr_list = cstr.split('\n')
-        
+
         document["zone16"].clear()
         for i in range(len(cstr_list)):
 		    #leading_spaces = len(str(cstr_list[i])) - len(str(cstr_list[i]).lstrip())
@@ -114,9 +115,10 @@ Input people and the amounts expended by each into the fields below with entries
 
 
 
-
+<!--
 
 
 </body>
 
 </html>
+-->
