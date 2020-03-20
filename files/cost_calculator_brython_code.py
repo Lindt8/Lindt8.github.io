@@ -67,10 +67,10 @@ def show_values(event):
     
     total_paid = sum(expenses)
     cost_per_person = total_paid/len(people)
-    dpadd = 0
     if int(dp)>0: 
-        dpadd = int(dp)+1
-    number_format_str = '{:' + str(dpadd+len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+        number_format_str = '{:' + str(1+int(dp)+len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+    else:
+	    number_format_str = '{:' + str(len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
     total_paid_str =      'Total cost over all participants: ' + number_format_str.format(total_paid)
     cost_per_person_str = 'Fair cost for each participant:   '.format(str(len(people))) + number_format_str.format(cost_per_person)
     explanation_str = 'The following transfers will make the net expense per person even over all participants:'
