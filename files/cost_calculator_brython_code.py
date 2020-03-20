@@ -44,8 +44,6 @@ def caclulate_cost_distribution(people,expenses,decimal_precision=0,sorting_on=F
             d2c = -1*ca[ci]
         ca[ci] += d2c
         da[di] += -1*d2c
-        #cost_str += ('{:>8} --({:5.0f})--> {:8}\n'.format(d[di],d2c,c[ci]))
-        #cost_str += name_format_lstr.format(d[di])+' --({:5.0f})--> '.format(d2c)+name_format_rstr.format(c[ci])+'\n'
         transactions.append([d[di],d2c,c[ci]])
         if ca[ci]==0: ci += 1
         if da[di]==0: di += 1
@@ -66,10 +64,18 @@ def show_values(event):
     expenses = [float(i) for i in inputb.split(',')]
     cstr = caclulate_cost_distribution(people,expenses,decimal_precision=dp,sorting_on=False)
     cstr_list = cstr.split('\n')
-
+    
+    total_paid = sum(expenses)
+    cost_per_person = total_paid/len(people)
+    number_format_str = '{:' + str(len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+    total_paid_str =      'Total cost over all participants: ' + number_format_str.format(total_paid)
+    cost_per_person_str = 'Fair cost for each participant:   '.format(str(len(people))) + number_format_str.format(cost_per_person)
+    explanation_str = 'The following transfers will make the net expense per person even over all participants:'
     document["zone16"].clear()
+    document["zone16"] <= (f"{total_paid_str}",html.BR())
+    document["zone16"] <= (f"{cost_per_person_str}",html.BR(),html.BR())
+    document["zone16"] <= (f"{explanation_str}",html.BR(),html.BR())
     for i in range(len(cstr_list)):
-	    #leading_spaces = len(str(cstr_list[i])) - len(str(cstr_list[i]).lstrip())
         document["zone16"] <= (f"{cstr_list[i]}",html.BR())
 
 document["button16"].bind("click", show_values)
