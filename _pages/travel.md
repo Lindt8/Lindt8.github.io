@@ -2,25 +2,9 @@
 layout: archive
 title: "Travel"
 permalink: /travel/
-author_profile: true
-redirect_from:
-  - /travels
 ---
 
 {% include base_path %}
-
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-.tablelines th, .tablelines td {
-          width: 100%;
-        }     
-.tablelines th:first-child,  .tablelines td:first-child {
-          width: 8%;
-        }
-</style>
-
 
 Below is an interactive map showing most of the places I have traveled for work and for fun!
 
