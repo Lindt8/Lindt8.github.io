@@ -1,25 +1,5 @@
 var addressPoints = [
   [
-    "1050 Walnut Street, Boulder, CO 80302",
-    40.0163197,
-    -105.2814085
-  ],
-  [
-    "701 Briarcliff Avenue, Oak Ridge, TN 37830",
-    36.022695,
-    -84.2317223
-  ],
-  [
-    "828 Paseo De Peralta, Santa Fe, NM 87501",
-    35.686505,
-    -105.9347528
-  ],
-  [
-    "Gofuku, Toyama-shi, Toyama-ken, Japan",
-    36.7004692,
-    137.1858656
-  ],
-  [
     "San Antonio, TX, USA",
     29.4246002,
     -98.4951405
@@ -45,9 +25,19 @@ var addressPoints = [
     -74.0060152
   ],
   [
+    "1050 Walnut Street, Boulder, CO 80302",
+    40.0163197,
+    -105.2814085
+  ],
+  [
     "1 Nasa Dr, Hampton, VA 23666, United States",
     37.0829365,
     -76.3800837
+  ],
+  [
+    "828 Paseo De Peralta, Santa Fe, NM 87501",
+    35.686505,
+    -105.9347528
   ],
   [
     "Hitachi-shi, Ibaraki-ken, Japan",
@@ -65,9 +55,49 @@ var addressPoints = [
     139.4856927
   ],
   [
-    "Hokkaido, Japan",
-    43.4603175,
-    143.33071579283663
+    "Kushiro-shi, Hokkaido, Japan",
+    42.9849503,
+    144.3820491
+  ],
+  [
+    "Teshikaga, Kawakami, Hokkaido, Japan",
+    43.4852911,
+    144.4594075
+  ],
+  [
+    "Shirogane, Biei, Kamikawa, Hokkaido, Japan",
+    43.49368990000001,
+    142.61413004878725
+  ],
+  [
+    "Asahikawa-shi, Hokkaido, Japan",
+    43.770625,
+    142.3649743
+  ],
+  [
+    "Sapporo-shi, Hokkaido, Japan",
+    43.061936,
+    141.3542924
+  ],
+  [
+    "Yoichi-shi, Hokkaido, Japan",
+    43.103933,
+    140.838443
+  ],
+  [
+    "Otaru-shi, Hokkaido, Japan",
+    43.1906806,
+    140.9946021
+  ],
+  [
+    "Hakodate-shi, Hokkaido, Japan",
+    41.768793,
+    140.729008
+  ],
+  [
+    "Gofuku, Toyama-shi, Toyama-ken, Japan",
+    36.7004692,
+    137.1858656
   ],
   [
     "Tateyama, Nakaniikawa, Toyama-ken, Japan",
@@ -78,6 +108,11 @@ var addressPoints = [
     "CEA, Saclay, France",
     48.72456055,
     2.148065389696782
+  ],
+  [
+    "Paris, France",
+    48.8566969,
+    2.3514616
   ],
   [
     "Boeretang 200, 2400 Mol, Belgium",
@@ -108,10 +143,5 @@ var addressPoints = [
     "Mito-shi, Ibaraki-ken, Japan",
     36.3657792,
     140.4713933
-  ],
-  [
-    "Paris, France",
-    48.8566969,
-    2.3514616
   ]
 ];
