@@ -6,7 +6,7 @@ permalink: /travel/
 
 {% include base_path %}
 
-Below is an interactive map showing most of the places that I have traveled for work and for fun!
+Below is an interactive map showing most of the places that I have traveled to for work and for fun!
 
 <iframe src="/travelmap/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
