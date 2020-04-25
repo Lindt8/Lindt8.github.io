@@ -25,6 +25,21 @@ var addressPoints = [
     -84.222967
   ],
   [
+    "Martin Rd SW, Huntsville, AL 35808",
+    34.647271,
+    -86.64932
+  ],
+  [
+    "500 S State St, Ann Arbor, MI 48109",
+    42.2942142,
+    -83.71003893509601
+  ],
+  [
+    "1050 Walnut Street, Boulder, CO 80302",
+    40.0163197,
+    -105.2814085
+  ],
+  [
     "98 Rochester St, Upton, NY 11973, United States",
     40.8793984,
     -72.8716963
@@ -33,11 +48,6 @@ var addressPoints = [
     "New York City, NY, USA",
     40.7127281,
     -74.0060152
-  ],
-  [
-    "1050 Walnut Street, Boulder, CO 80302",
-    40.0163197,
-    -105.2814085
   ],
   [
     "1 Nasa Dr, Hampton, VA 23666, United States",
