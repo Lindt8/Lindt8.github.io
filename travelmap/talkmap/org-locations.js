@@ -10,9 +10,19 @@ var addressPoints = [
     -81.3790304
   ],
   [
+    "Atlanta, GA, USA",
+    33.7490987,
+    -84.3901849
+  ],
+  [
     "Washington D.C., USA",
     38.8949855,
     -77.0365708
+  ],
+  [
+    "1 Bethel Valley Rd, Oak Ridge, TN 37830, United States",
+    35.983302,
+    -84.222967
   ],
   [
     "98 Rochester St, Upton, NY 11973, United States",
@@ -53,6 +63,11 @@ var addressPoints = [
     "Kawagoe, Saitama-ken, Japan",
     35.9251145,
     139.4856927
+  ],
+  [
+    "Nikko-shi, Tochigi-ken, Japan",
+    36.7199292,
+    139.6983288
   ],
   [
     "Kushiro-shi, Hokkaido, Japan",
@@ -143,5 +158,30 @@ var addressPoints = [
     "Mito-shi, Ibaraki-ken, Japan",
     36.3657792,
     140.4713933
+  ],
+  [
+    "Oarai, Ibaraki-ken, Japan",
+    36.3133375,
+    140.5747222
+  ],
+  [
+    "Nasu, Tochigi-ken, Japan",
+    36.9635986,
+    140.1568116
+  ],
+  [
+    "Tullahoma, TN, USA",
+    35.3620235,
+    -86.2094342
+  ],
+  [
+    "Knoxville, TN, USA",
+    35.9603948,
+    -83.9210261
+  ],
+  [
+    "Tokai-mura, Naka-gun, Ibaraki-ken, Japan",
+    36.42373485,
+    140.7570370353444
   ]
 ];
