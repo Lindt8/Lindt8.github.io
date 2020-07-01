@@ -64,6 +64,7 @@ def show_values(event):
     expenses = [float(i) for i in inputb.split(',')]
     if len(people)!=len(expenses):
         cstr = 'Error: Number of people ({}) must equal number of expenses listed ({}).'.format(str(len(people)),str(len(expenses)))
+        document["zone16"].clear()
         document["zone16"] <= (f"{cstr}",html.BR())
     else:
         cstr = caclulate_cost_distribution(people,expenses,decimal_precision=dp,sorting_on=False)
