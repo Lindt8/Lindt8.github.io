@@ -62,23 +62,27 @@ def show_values(event):
     rawp = inputa.split(',')
     people = [i.strip() for i in rawp]
     expenses = [float(i) for i in inputb.split(',')]
-    cstr = caclulate_cost_distribution(people,expenses,decimal_precision=dp,sorting_on=False)
-    cstr_list = cstr.split('\n')
-    
-    total_paid = sum(expenses)
-    cost_per_person = total_paid/len(people)
-    if int(dp)>0: 
-        number_format_str = '{:' + str(1+int(dp)+len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+    if len(people)!=len(expenses):
+        cstr = 'Error: Number of people ({}) must equal number of expenses listed ({}).'.format(str(len(people)),str(len(expenses)))
+        document["zone16"] <= (f"{cstr}",html.BR())
     else:
-	    number_format_str = '{:' + str(len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
-    total_paid_str =      'Total cost over all participants: ' + number_format_str.format(total_paid)
-    cost_per_person_str = 'Fair cost for each participant:   '.format(str(len(people))) + number_format_str.format(cost_per_person)
-    explanation_str = 'The following transfers will make the net expense per person even over all participants:'
-    document["zone16"].clear()
-    document["zone16"] <= (f"{total_paid_str}",html.BR())
-    document["zone16"] <= (f"{cost_per_person_str}",html.BR(),html.BR())
-    document["zone16"] <= (f"{explanation_str}",html.BR(),html.BR())
-    for i in range(len(cstr_list)):
-        document["zone16"] <= (f"{cstr_list[i]}",html.BR())
+        cstr = caclulate_cost_distribution(people,expenses,decimal_precision=dp,sorting_on=False)
+        cstr_list = cstr.split('\n')
+        
+        total_paid = sum(expenses)
+        cost_per_person = total_paid/len(people)
+        if int(dp)>0: 
+            number_format_str = '{:' + str(1+int(dp)+len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+        else:
+	        number_format_str = '{:' + str(len(str(int(total_paid)))) + '.' + str(int(dp)) + 'f}'
+        total_paid_str =      'Total cost over all participants: ' + number_format_str.format(total_paid)
+        cost_per_person_str = 'Fair cost for each participant:   ' + number_format_str.format(cost_per_person)
+        explanation_str = 'The following transfers will make the net expense per person even over all participants:'
+        document["zone16"].clear()
+        document["zone16"] <= (f"{total_paid_str}",html.BR())
+        document["zone16"] <= (f"{cost_per_person_str}",html.BR(),html.BR())
+        document["zone16"] <= (f"{explanation_str}",html.BR(),html.BR())
+        for i in range(len(cstr_list)):
+            document["zone16"] <= (f"{cstr_list[i]}",html.BR())
 
 document["button16"].bind("click", show_values)
