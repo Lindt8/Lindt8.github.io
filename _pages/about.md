@@ -29,7 +29,7 @@ Personal interests
 ======
 I enjoy watching "edutainment" documentaries and videos on YouTube covering a wide array of topics including science, mathematics, technology, business, geography, history, geopolitics, food, comedy, travel, and more.  
 
-Mixology, explored responsibly, has also become a hobby of mine.  Many mixed drinks and cocktails and their ingredients have fascinating histories.  I find it fascinating how most drinks consist of ingredients collected from multiple countries (and often continents).  Exploring recipes and optimizing them to my own taste has been very satisfying and rewarding.
+Mixology, explored responsibly, has also become a hobby of mine.  Many mixed drinks and cocktails and their ingredients have fascinating histories.  I find it intriguing how most drinks consist of ingredients collected from multiple countries (and often continents).  Exploring recipes and optimizing them to my own tastes has been very satisfying and rewarding.
 
 I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the Hobby Projects page of this website.  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things to make my internet experience easier such as writing a custom HTML/CSS new tab page as well as a Windows batch script I can use to automatically launch all of the tabs I wish to check every morning.  Composing this website also plays into this hobby of mine.
 
@@ -41,7 +41,7 @@ I entered college as an aerospace engineering major, hoping to eventually find m
 
 At the end of my undergraduate experience, I learned of the numerous space-related applications of nuclear engineering such as RTGs (radioisotope thermoelectric generators), nuclear thermal propulsion, and radiation protection for both astronauts and electronics.  Realizing I could apply my nuclear engineering knowledge toward my original goal of working in space-related fields, I decided to go to graduate school to pursue these interests and prepare myself for a career in these areas.  
 
-While in grad school, I have worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my current position working as a developer of the PHITS code.
+While in grad school, I worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space radiation remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my current position working as a developer of the PHITS code.
 
 
 Events and recent news
