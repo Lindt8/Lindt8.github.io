@@ -23,7 +23,7 @@ My work in developing DCHAIN-PHITS has granted me deep experience with and an in
 
 I also have experience modeling the GCR and SPE induced radiation environments on the surface of Mars.  My PhD work involved conducting experiments at a hadron accelerator facility (NSRL), and my specific role pertained to neutron detection and analysis.  A significant amount of modeling and coding was involved in that project as well; I am experienced with both the MCNP and PHITS particle transport codes.
 
-My programming language of choice is Python, though I also know Fortran, Matlab, and some C++ (also used with ROOT).  I also have plenty of experience working in shell environments (in both Windows and Unix-based systems).  Additionally, I find joy in the process of generating diagrams and composing documentation with LaTeX, making concise manuals and reports to thorough research notes, all cleanly typeset with sharp visuals.
+My programming language of choice is Python, though I also know Fortran, Matlab, and some C++ (also used with ROOT).  I also have plenty of experience working in command-line interfaces (in both Windows and Unix-based systems, local and remote).  Additionally, I find joy in the process of generating diagrams and composing documentation with LaTeX, making concise manuals and reports to thorough research notes, all cleanly typeset with sharp visuals.
 
 Personal interests
 ======

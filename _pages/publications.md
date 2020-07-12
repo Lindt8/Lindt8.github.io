@@ -11,8 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-2019 &ensp;(<font color="#C1751F">UTK</font>/<font color="#1F2CCA">JAEA</font>)
+2020 &ensp;(<font color="#1F2CCA">JAEA</font>)
 ------
+* "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__]()," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in institutional review*)
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
