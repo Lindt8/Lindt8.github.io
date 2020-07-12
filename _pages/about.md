@@ -8,27 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018 and am presently a postdoctoral fellow/researcher at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center.
+I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018 and am presently a postdoctoral fellow/researcher in the PHITS development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center.  I am currently the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.
 
-Research interests
+Professional interests
 ======
-My primary research interests pertain to space applications of nuclear engineering/physics.  Radiation protection/shielding in space environments is a large interest of mine; the design and modeling challenges presented in space are intriguing to me.
+My primary professional interests largely surround applications of the radiation transport codes MCNP and PHITS, data analysis and visualization (particularly with large datasets), and documentation/presentation of codes, methods, and results; I enjoy programming, scripting, and developing tools to assist in these efforts.
 
-I also have an interest in radioisotope production as well as a general interest in the analyzation and presentation of large datasets.
+I am interested in the space applications of nuclear engineering/physics, radiation protection and shielding, accelerator facilities, neutron science, radioisotope production, and nuclear medicine.
 
-Research experience
+
+Professional experience
 ======
-I have experience modeling the GCR and SPE induced radiation environments on the surface of Mars.  My PhD work involved conducting experiments at a hadron accelerator facility (NSRL), and my specific role pertained to neutron detection and analysis.  A significant amount of modeling and coding was involved in that project as well; I am experienced with both the MCNP and PHITS particle transport codes.
+My work in developing DCHAIN-PHITS has granted me deep experience with and an intimate understanding of induced radioactivity calculations.  My improvements to the code have largely involved modernizing it with updated nuclear data libraries and new features such as statistical uncertainty propagation, nuclide inventory tracking by specific reactions, and support for tetrahedral and 3-D grid mesh geometries.
 
-My programming language of choice is Python, though I also know Fortran, Matlab, and limited C++ (ROOT).  I also have plenty of experience working in shell environments (in both Windows and Unix-based systems).
+I also have experience modeling the GCR and SPE induced radiation environments on the surface of Mars.  My PhD work involved conducting experiments at a hadron accelerator facility (NSRL), and my specific role pertained to neutron detection and analysis.  A significant amount of modeling and coding was involved in that project as well; I am experienced with both the MCNP and PHITS particle transport codes.
+
+My programming language of choice is Python, though I also know Fortran, Matlab, and some C++ (also used with ROOT).  I also have plenty of experience working in shell environments (in both Windows and Unix-based systems).  Additionally, I find joy in the process of generating diagrams and composing documentation with LaTeX, making concise manuals and reports to thorough research notes, all cleanly typeset with sharp visuals.
 
 Personal interests
 ======
-I enjoy watching science, mathematics, technology, business, geography, history, geopolitics, food, comedy, and travel videos on YouTube.  Additionally, I really enjoy watching documentaries; the travel genre in particular generally lends itself well to the longer format of documentaries.
+I enjoy watching "edutainment" documentaries and videos on YouTube covering a wide array of topics including science, mathematics, technology, business, geography, history, geopolitics, food, comedy, travel, and more.  
 
-I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the Hobby Projects page of this website.  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things to make my internet experience easier such as writing a custom HTML/CSS new tab page as well as a Windows batch script I can use to automatically launch all of the tabs I wish to check every morning.  In a way, composing this website also plays into this hobby of mine.
+Mixology, explored responsibly, has also become a hobby of mine.  Many mixed drinks and cocktails and their ingredients have fascinating histories.  I find it fascinating how most drinks consist of ingredients collected from multiple countries (and often continents).  Exploring recipes and optimizing them to my own taste has been very satisfying and rewarding.
 
-Like most people of my generation, I also enjoy video games.  In particular for me, I have an interest in PC gaming as well as a general interest in technology.  I built my own PC in early 2016 (right before the sharp rise in RAM and GPU prices), and the researching of parts, purchasing, and assembly were all enjoyable experiences.
+I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the Hobby Projects page of this website.  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things to make my internet experience easier such as writing a custom HTML/CSS new tab page as well as a Windows batch script I can use to automatically launch all of the tabs I wish to check every morning.  Composing this website also plays into this hobby of mine.
+
+Like many people of my generation, I also enjoy video games.  In particular for me, I have an interest in PC gaming as well as a general interest in technology.  I built my own PC in early 2016, and the researching of parts, purchasing, and assembly were all enjoyable experiences.
 
 Short bio
 ======
@@ -36,10 +41,11 @@ I entered college as an aerospace engineering major, hoping to eventually find m
 
 At the end of my undergraduate experience, I learned of the numerous space-related applications of nuclear engineering such as RTGs (radioisotope thermoelectric generators), nuclear thermal propulsion, and radiation protection for both astronauts and electronics.  Realizing I could apply my nuclear engineering knowledge toward my original goal of working in space-related fields, I decided to go to graduate school to pursue these interests and prepare myself for a career in these areas.  
 
-While in grad school, I have worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.
+While in grad school, I have worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my current position working as a developer of the PHITS code.
 
 
-Recent news
+Events and recent news
 ======
+* 2019/04/01 - Began work as a postdoctoral fellow at the Japan Atomic Energy Agency
 * 2018/12/15 - Graduated with a PhD in nuclear engineering from the University of Tennessee, Knoxville.
 * 2018/07/07 - This site was created.
