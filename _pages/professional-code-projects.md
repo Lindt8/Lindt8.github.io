@@ -22,6 +22,12 @@ This is a Jupyter notebook for conveniently viewing and comparing the data colle
 ### Galactic Cosmic Ray Spectra Generator
 This is a Jupyter notebook for conveniently generating GCR spectra using the [GCR model developed by Dr. Daniel Matthiä](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
 
+
+[<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools)
+======
+### DCHAIN-PHITS output parser/processor and toolkit
+This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  (*under ongoing development*)
+
 [<u>CLSQ2</u>](https://github.com/Lindt8/CLSQ2)
 ======
 ### Cumming’s Least Squares (version 2)
