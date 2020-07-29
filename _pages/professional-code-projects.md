@@ -22,17 +22,19 @@ This is a Jupyter notebook for conveniently viewing and comparing the data colle
 ### Galactic Cosmic Ray Spectra Generator
 This is a Jupyter notebook for conveniently generating GCR spectra using the [GCR model developed by Dr. Daniel Matthiä](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
 
+[<u>CLSQ2</u>](https://github.com/Lindt8/CLSQ2)
+======
+### Cumming’s Least Squares (version 2)
+This is a modernized version of the 1962 Cumming’s Least Squares (CLSQ) Brookhaven Decay Curve Analysis Program, written in FORTRAN IV.  The original paper on it can be read [<u>here</u>](https://books.google.com/books?id=DZQrAAAAYAAJ&lpg=PR1&pg=PA25#v=onepage&q&f=false). CLSQ analyzes multicomponent decay curves by a least-squares procedure to iteratively identify the half-lives and abundances of the individual isotopes of a measured sample.  Its use at Oak Ridge National Laboratory (ORNL) had been limited to a few very old computers due to its age and recompilation issues; only a 16-bit compiled version of the code was in use at ORNL.  To make this code more accessible, I translated the original code from FORTRAN IV into Python 3.  Additionally, I added improvements in the input and output functionalities of CLSQ, making it much more user-friendly.  The new CLSQ code is used today at ORNL and is featured in a graduate course on isotope production at the University of Tennessee.  
 
 [<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools)
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
 This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  (*under ongoing development*)
 
-[<u>CLSQ2</u>](https://github.com/Lindt8/CLSQ2)
+[<u>Hunter's tools</u>](https://github.com/Lindt8/Hunters-tools)
 ======
-### Cumming’s Least Squares (version 2)
-This is a modernized version of the 1962 Cumming’s Least Squares (CLSQ) Brookhaven Decay Curve Analysis Program, written in FORTRAN IV.  The original paper on it can be read [<u>here</u>](https://books.google.com/books?id=DZQrAAAAYAAJ&lpg=PR1&pg=PA25#v=onepage&q&f=false). CLSQ analyzes multicomponent decay curves by a least-squares procedure to iteratively identify the half-lives and abundances of the individual isotopes of a measured sample.  Its use at Oak Ridge National Laboratory (ORNL) had been limited to a few very old computers due to its age and recompilation issues; only a 16-bit compiled version of the code was in use at ORNL.  To make this code more accessible, I translated the original code from FORTRAN IV into Python 3.  Additionally, I added improvements in the input and output functionalities of CLSQ, making it much more user-friendly.  The new CLSQ code is used today at ORNL and is featured in a graduate course on isotope production at the University of Tennessee.  
-
-
+### Collection of my general-purpose Python functions
+This is a simple Python module containing a collection of functions that I have written and curated over the years spanning a large variety of purposes.  Broadly, the functions fit into three categories: general use (somewhat of a catchall), science and engineering (nuclear in particular), and visualization and plotting.
 
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->
