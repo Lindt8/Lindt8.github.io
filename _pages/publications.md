@@ -13,7 +13,7 @@ author_profile: true
 
 2020 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-* "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__]()," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in institutional review*) (__<font color="#1F2CCA">JAEA</font>__)
+* "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__]()," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*submitted*) (__<font color="#1F2CCA">JAEA</font>__)
 
 * "[__Double-differential primary target neutron yields from dual-thick-target hadron accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, S.R. Blattnig, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, C. Pearson, R. Rosselot, A. Rusek, M. Sivertz, T. Slaba, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
 
