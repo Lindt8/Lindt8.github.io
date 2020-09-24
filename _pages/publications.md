@@ -17,7 +17,7 @@ author_profile: true
 
 * "[__Double-differential primary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, S.R. Blattnig, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, C. Pearson, R. Rosselot, A. Rusek, M. Sivertz, T. Slaba, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
 
-* "[__Energy-dependent secondary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, M.R. Beach, S.R. Blattnig, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, N.A. McGirl, C. Pearson, R. Rosselot, A. Rusek, M. Sivertz, T. Slaba, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
+* "[__Energy-dependent secondary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, S.R. Blattnig, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, C. Pearson, R. Rosselot, A. Rusek, M. Sivertz, T. Slaba, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
