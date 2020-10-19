@@ -18,8 +18,10 @@ author_profile: true
 
 
 * "[__Double-differential primary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
+   * [[Direct link to Preprint]](https://hratliff.com/files/NSRL_Front_target_neutron_paper_Preprint.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
 
 * "[__Energy-dependent secondary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
+   * [[Direct link to Preprint]](https://hratliff.com/files/NSRL_Back_target_neutron_paper_Preprint.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
