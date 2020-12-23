@@ -11,17 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-2020 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+2021 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-* "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__](https://doi.org/10.1016/j.nimb.2020.10.005)," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 484, 29-41, December 2020.  (__<font color="#1F2CCA">JAEA</font>__)
-   * [[Direct link to Accepted Manuscript]](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
-
-
 * "[__Double-differential primary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
    * [[Direct link to Preprint]](https://hratliff.com/files/NSRL_Front_target_neutron_paper_Preprint.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
 
 * "[__Development of scalable deconvolution methods for determining secondary target neutron yields from dual-thick-target cosmic-ray ion accelerator experiments__]()," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2020. (*in preparation*) (__<font color="#C1751F">UTK</font>__)
    * [[Direct link to Preprint]](https://hratliff.com/files/NSRL_Back_target_neutron_paper_Preprint.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
+
+2020 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+------
+* "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__](https://doi.org/10.1016/j.nimb.2020.10.005)," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 484, 29-41, December 2020.  (__<font color="#1F2CCA">JAEA</font>__)
+   * [[Direct link to Accepted Manuscript]](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a> 
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
