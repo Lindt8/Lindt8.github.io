@@ -43,3 +43,12 @@ Dissertation
 Technical Notes
 -----
 * "[__Cartesian formulas for curvature, circumradius, and circumcenter for any three two-dimensional points__](https://hratliff.com/files/curvature_calculations_and_circle_fitting.pdf)," <u>H.N. Ratliff</u>, February 2019, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2556424.svg)](https://doi.org/10.5281/zenodo.2556424).
+
+
+### My Affiliations
+
+* __<font color="#C1751F">UTK</font>__ : The University of Tennessee, Knoxville 
+* __<font color="#1F2CCA">JAEA</font>__ : Japan Atomic Energy Agency 
+
+Next to each year is my primary affiliation at that time; for any publications where my primary affiliation differed from that of my employment, the main affiliation associated with the work is noted at the end of the entry.
+
