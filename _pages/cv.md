@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
+header-img: "images/default-site-banner-image_v1.png"
 permalink: /cv/
 author_profile: true
 redirect_from:

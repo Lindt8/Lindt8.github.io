@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Travel"
+header-img: "images/default-site-banner-image_v1.png"
 permalink: /travel/
 ---
 

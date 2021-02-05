@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Professional coding projects"
+header-img: "images/default-site-banner-image_v1.png"
 permalink: /professional-code-projects/
 author_profile: true
 redirect_from:

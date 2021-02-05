@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Talks"
+header-img: "images/default-site-banner-image_v1.png"
 permalink: /talks/
 author_profile: true
 redirect_from:
