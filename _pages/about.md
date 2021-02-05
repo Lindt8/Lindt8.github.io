@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 subtitle: "Hunter Ratliff - About me"
 excerpt: "About me"
-header-img: "images/default-site-banner-image_v1.png"
+header-img: "images/default-site-banner-image_v4.png"
 author_profile: true
 redirect_from:
   - /about/
