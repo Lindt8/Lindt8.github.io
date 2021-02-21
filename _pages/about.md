@@ -16,7 +16,7 @@ Professional interests
 ======
 My primary professional interests largely surround applications of the radiation transport codes MCNP and PHITS, data analysis and visualization (particularly with large datasets), and documentation/presentation of codes, methods, and results; I enjoy programming, scripting, and developing tools to assist in these efforts.
 
-I am interested in the space applications of nuclear engineering/physics, radiation protection and shielding, accelerator facilities, neutron science, radioisotope production, and nuclear medicine.
+I am interested in the space applications of nuclear engineering/physics, radiation protection and shielding, accelerator facilities, neutron science, radioisotope production, and radiotherapy.
 
 
 Professional experience
