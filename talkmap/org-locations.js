@@ -16,7 +16,12 @@ var addressPoints = [
   ],
   [
     "Gofuku, Toyama-shi, Toyama-ken, Japan",
-    36.6987382,
-    137.186672833323
+    36.7008937,
+    137.1907277
+  ],
+  [
+    "Takata, Kashiwa-shi, Chiba-ken, Japan",
+    35.87666615,
+    139.9567391689045
   ]
 ];
