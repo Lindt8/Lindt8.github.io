@@ -28,7 +28,7 @@ redirect_from:
 | Title    | Overview of the DCHAIN-PHITS activation code and its application in accelerator environments <span style="font-weight:normal; float:right;">[Invited]</span> |
 | -------- | ------------------------------------------------ |
 | Event <br /> 会合名   | 5<sup>th</sup> Workshop on Radiation Shielding Design Methods <br /> 第５回　放射線遮蔽設計法に係るワークショップ |
-| Host <br /> 主催者     | Atomic Energy Society of Japan Radiation Engineering Subcommittee <br /> 日本原子力学会 放射線工学部会  |
+| Host <br /> 主催者     | Atomic Energy Society of Japan Radiation, Radiation Science and Technology Subcommittee <br /> 日本原子力学会 放射線工学部会  |
 | Location | Online (Kashiwa City, Chiba, Japan)         |
 | Date     | 4 March 2021                                |
 {: .tablelines}
