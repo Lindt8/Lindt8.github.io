@@ -66,6 +66,7 @@ $primary-color              : #7a8288;
 */
 
 /* Dark Theme */
+/*
 $body-color                 : #252a34;
 $background-color           : #252a34;
 $code-background-color      : mix(#000, $background-color, 15%);
@@ -74,6 +75,17 @@ $text-color                 : #eaeaea;
 $border-color               : mix(#fff, $background-color, 20%);
 
 $primary-color              : #8cd2d5;
+*/
+
+/* Dirt Theme */
+$body-color                 : #f3f3f3;
+$background-color           : #f3f3f3;
+$code-background-color      : mix(#fff, $background-color, 15%);
+$code-background-color-dark : mix(#fff, $background-color, 20%);
+$text-color                 : #343434;
+$border-color               : #e9dcbe;
+
+$primary-color              : #858585;
 
 
 $success-color              : #62c462;
@@ -115,12 +127,23 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 */
 
 /* Dark Theme */
+/*
 $link-color                 : mix(#000, $info-color, 15%) !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 15%) !default;
 $masthead-link-color        : $primary-color !default;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+*/
+
+/* Dirt Theme */
+$link-color                 : #343434 !default;
+$link-color-hover           : mix(#fff, $link-color, 25%) !default;
+$link-color-visited         : mix(#000, $link-color, 15%) !default;
+$masthead-link-color        : $text-color !default;
+$masthead-link-color-hover  : mix(#000, $text-color, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+
 
 /*
    Breakpoints
