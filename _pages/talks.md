@@ -12,7 +12,7 @@ redirect_from:
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
+        border: 1px solid $light-gray;
         }
 .tablelines th, .tablelines td {
           width: 100%;
@@ -32,7 +32,6 @@ redirect_from:
 | Location | Online (Kashiwa City, Chiba, Japan)         |
 | Date     | 4 March 2021                                |
 {: .tablelines}
-{: table {border: 1px solid $light-gray;}}
 
 2019 &ensp;(<font color="#407ff5">JAEA</font>)
 ------
