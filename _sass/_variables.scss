@@ -89,9 +89,11 @@ $background-color           : #f3f3f3;
 $code-background-color      : mix(#fff, $background-color, 15%);
 $code-background-color-dark : mix(#fff, $background-color, 20%);
 $text-color                 : #343434;
+$muted-text-color: #8e8b82 !default;
 $border-color               : #e9dcbe;
+$footer-background-color    : #e9dcbe !default;
 
-$primary-color              : #858585;
+$primary-color              : #343434 !default;
 
 
 $success-color              : #62c462;
@@ -148,7 +150,7 @@ $link-color-hover           : mix(#fff, $link-color, 25%) !default;
 $link-color-visited         : mix(#000, $link-color, 15%) !default;
 $masthead-link-color        : $text-color !default;
 $masthead-link-color-hover  : mix(#000, $text-color, 25%) !default;
-$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+$navicon-link-color-hover   : mix(#fff, $text-color, 75%) !default;
 
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
