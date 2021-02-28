@@ -32,6 +32,7 @@ redirect_from:
 | Location | Online (Kashiwa City, Chiba, Japan)         |
 | Date     | 4 March 2021                                |
 {: .tablelines}
+{: table {border: 1px solid $light-gray;}}
 
 2019 &ensp;(<font color="#407ff5">JAEA</font>)
 ------
