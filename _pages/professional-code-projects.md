@@ -33,7 +33,7 @@ This is a modernized version of the 1962 Cumming’s Least Squares (CLSQ) Brookh
 ### DCHAIN-PHITS output parser/processor and toolkit
 This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  (*under ongoing development*)
 
-[[Documentation]](https://lindt8.github.io/DCHAIN-Tools/)
+[<font color="#90ba6e">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
 
 
 
@@ -42,6 +42,6 @@ This is a simple Python module containing a collection of functions which serve 
 ### Collection of my general-purpose Python functions
 This is a simple Python module containing a collection of functions that I have written and curated over the years spanning a large variety of purposes.  Broadly, the functions fit into three categories: general use (somewhat of a catchall), science and engineering (nuclear in particular), and visualization and plotting.
 
-[[Documentation]](http://lindt8.github.io/Hunters-tools/)
+[<font color="#90ba6e">[Documentation]</font>](http://lindt8.github.io/Hunters-tools/)
 
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->
