@@ -49,6 +49,6 @@ Technical Notes
 ### My Affiliations
 
 * __<font color="#C1751F">UTK</font>__ : The University of Tennessee, Knoxville
-* __<font color="#1F2CCA">JAEA</font>__ : Japan Atomic Energy Agency
+* __<font color="#407ff5">JAEA</font>__ : Japan Atomic Energy Agency
 
 Next to each year is my primary affiliation at that time; for any publications where my primary affiliation differed from that of my employment, the main affiliation associated with the work is noted at the end of the entry.
