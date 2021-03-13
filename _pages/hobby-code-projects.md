@@ -18,7 +18,7 @@ This is an easy-to-use Python tool for making custom interactive Scalable Vector
 
 <div class="fluid-width-video-wrapper" style="padding-top: 67%; text-align: center; width: 85%;"><embed src="/files/Olympic_medals_per_country.svg" type=""></div>
 
-<p>
+<p></p>
 
 
 [<u>Wallpaper aspect ratio trimmer</u>](https://github.com/Lindt8/Wallpaper_aspect_ratio_trimmer)
