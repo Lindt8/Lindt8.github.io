@@ -11,7 +11,7 @@ redirect_from:
 
 I have worked on a handful of little projects of my own to improve my own computer and/or internet experience or just as fun little projects.  Links to their respective GitHub pages and brief descriptions are provided here.
 
-[<u>Interactive world data_map generator</u>](https://github.com/Lindt8/Interactive_world_data_map)
+[<u>Interactive world data map generator</u>](https://github.com/Lindt8/Interactive_world_data_map)
 ======
 This is an easy-to-use Python tool for making custom interactive Scalable Vector Graphics (SVG) world maps showing binned data, such as the example below showing the number of [Olympic medals won](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table) by each country.  It has a comprehensive GUI, supports data from Excel, CSV, and TSV files, and saves the GUI settings and file data for quick and easy iteration and future usage.
 
