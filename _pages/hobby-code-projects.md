@@ -15,10 +15,10 @@ I have worked on a handful of little projects of my own to improve my own comput
 ======
 This is an easy-to-use Python tool for making custom interactive Scalable Vector Graphics (SVG) world maps showing binned data, such as the example below showing the number of [Olympic medals won](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table) by each country.  It has a comprehensive GUI, supports data from Excel, CSV, and TSV files, and saves the GUI settings and file data for quick and easy iteration and future usage.
 
-<div style="text-align: center;">
+
 <div class="fluid-width-video-wrapper" style="padding-top: 67%; text-align: center; width: 85%;"><embed src="/files/Olympic_medals_per_country.svg" type=""></div>
-</div>
-<br>
+
+<p>
 
 
 [<u>Wallpaper aspect ratio trimmer</u>](https://github.com/Lindt8/Wallpaper_aspect_ratio_trimmer)
