@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have worked on a handful of little projects of my own to improve my own computer and/or internet experience or just as fun little projects.  Links to their respective GitHub pages and brief descriptions are provided here.
+I have worked on a handful of little projects of my own to improve my own computer and/or internet experience or just for fun.  Links to their respective GitHub pages and brief descriptions are provided here.
 
 [<u>Interactive world data map generator</u>](https://github.com/Lindt8/Interactive_world_data_map)
 ======
