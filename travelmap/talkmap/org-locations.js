@@ -11,13 +11,13 @@ var addressPoints = [
   ],
   [
     "Atlanta, GA, USA",
-    33.7490987,
-    -84.3901849
+    33.7489924,
+    -84.3902644
   ],
   [
     "Washington D.C., USA",
-    38.8949855,
-    -77.0365708
+    38.8949924,
+    -77.0365581
   ],
   [
     "1 Bethel Valley Rd, Oak Ridge, TN 37830, United States",
@@ -26,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Martin Rd SW, Huntsville, AL 35808",
-    34.647271,
-    -86.64932
+    34.644626,
+    -86.694745
   ],
   [
     "500 S State St, Ann Arbor, MI 48109",
@@ -41,8 +41,8 @@ var addressPoints = [
   ],
   [
     "98 Rochester St, Upton, NY 11973, United States",
-    40.8793984,
-    -72.8716963
+    40.8644576,
+    -72.8799235
   ],
   [
     "New York City, NY, USA",
@@ -61,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Hitachi-shi, Ibaraki-ken, Japan",
-    36.5890835,
-    140.7639580530664
+    36.5991225,
+    140.6504604
   ],
   [
     "Tokyo, Japan",
@@ -76,8 +76,8 @@ var addressPoints = [
   ],
   [
     "Nikko-shi, Tochigi-ken, Japan",
-    36.7199292,
-    139.6983288
+    36.7196755,
+    139.6989028
   ],
   [
     "Kushiro-shi, Hokkaido, Japan",
@@ -106,8 +106,8 @@ var addressPoints = [
   ],
   [
     "Yoichi-shi, Hokkaido, Japan",
-    43.103933,
-    140.838443
+    43.1954132,
+    140.7835618
   ],
   [
     "Otaru-shi, Hokkaido, Japan",
@@ -121,8 +121,8 @@ var addressPoints = [
   ],
   [
     "Gofuku, Toyama-shi, Toyama-ken, Japan",
-    36.7004692,
-    137.1858656
+    36.7008937,
+    137.1907277
   ],
   [
     "Tateyama, Nakaniikawa, Toyama-ken, Japan",
@@ -131,8 +131,8 @@ var addressPoints = [
   ],
   [
     "CEA, Saclay, France",
-    48.72456055,
-    2.148065389696782
+    48.7290281,
+    2.1457424
   ],
   [
     "Paris, France",
@@ -176,8 +176,33 @@ var addressPoints = [
   ],
   [
     "Nasu, Tochigi-ken, Japan",
-    36.9635986,
-    140.1568116
+    37.019786,
+    140.1208822
+  ],
+  [
+    "Fukuroda Falls, Daigo, Ibaraki, Japan",
+    36.7644411,
+    140.4070824
+  ],
+  [
+    "Zenkoji Temple, Nagano, Japan",
+    36.661423299999996,
+    138.18765768403284
+  ],
+  [
+    "Shibu Onsen, Nagano-ken, Japan",
+    36.7343852,
+    138.4305856
+  ],
+  [
+    "Jigokudani, Nagano-ken, Japan",
+    36.73276,
+    138.4611802
+  ],
+  [
+    "Asakusa, Tokyo, Japan",
+    35.7175966,
+    139.7975626
   ],
   [
     "Tullahoma, TN, USA",
@@ -191,7 +216,7 @@ var addressPoints = [
   ],
   [
     "Tokai-mura, Naka-gun, Ibaraki-ken, Japan",
-    36.42373485,
-    140.7570370353444
+    36.4726607,
+    140.5662106
   ]
 ];
