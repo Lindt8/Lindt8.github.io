@@ -25,7 +25,7 @@ redirect_from:
 2021 &ensp;(<font color="#407ff5">JAEA</font>)
 ------
 
-| Title    | Overview of the DCHAIN-PHITS activation code and its application in accelerator environments <span style="font-weight:normal; float:right;">[Invited]</span> |
+| Title    | [Overview of the DCHAIN-PHITS activation code and its application in accelerator environments](https://jopss.jaea.go.jp/search/servlet/search?5070934&language=1) <span style="font-weight:normal; float:right;">[Invited]</span> |
 | -------- | ------------------------------------------------ |
 | Event <br /> 会合名   | 5<sup>th</sup> Workshop on Radiation Shielding Design Methods <br /> 第５回　放射線遮蔽設計法に係るワークショップ |
 | Host <br /> 主催者     | Atomic Energy Society of Japan, Radiation Science and Technology Subcommittee <br /> 日本原子力学会 放射線工学部会  |
@@ -38,7 +38,7 @@ redirect_from:
 
 | Title    | Improvements to DCHAIN and its data libraries |
 | -------- | ------------------------------------------------ |
-| Event    | Atomic Energy Society of Japan 2019 Fall Meeting (Conference) |
+| Event    | [Atomic Energy Society of Japan 2019 Fall Meeting](https://confit.atlas.jp/guide/event/aesj2019f/static/overview?lang=en) (Conference) |
 | Host     | University of Toyama, Gofuku Campus              |
 | Location | Toyama City, Toyama, Japan                       |
 | Date     | 11 September 2019                                |
@@ -49,7 +49,7 @@ redirect_from:
 
 | Title    | Overview of model evaluation: "MCNP6" (2018)|
 | -------- | ------------------------------------------- |
-| Event    | Mars Space Radiation Modeling Workshop 2018 |
+| Event    | [Mars Space Radiation Modeling Workshop 2018](https://www.boulder.swri.edu/rad_modeling_workshop2/workshop.php) |
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 17 October 2018                             |
@@ -58,7 +58,7 @@ redirect_from:
 
 | Title    | Secondary neutron yields from thick-target GCR accelerator experiments               |
 | -------- | ------------------------------------------------------------------------------------ |
-| Event    | 20th Topical Meeting of the Radiation Protection and Shielding Division of the American Nuclear Society (Conference)   |
+| Event    | [20th Topical Meeting of the Radiation Protection and Shielding Division of the American Nuclear Society](https://www.ans.org/meetings/view-282/) (Conference)   |
 | Host     | Radiation Protection and Shielding Division of the American Nuclear Society          |
 | Location | Santa Fe, NM                                                                         |
 | Date     | 29 August 2018                                                                       |
@@ -67,7 +67,7 @@ redirect_from:
 
 | Title    | The radiation environment on the Martian surface: A modeling challenge and benchmarking opportunity  <span style="font-weight:normal; float:right;">[Invited]</span>    |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| Event    | James E. Turner Back to School Lecture Series                                                            |
+| Event    | [James E. Turner Back to School Lecture Series](https://hps.org/newsandevents/newsarchive/oldnews1289.html)                                                            |
 | Host     | Roane State Community College, Oak Ridge campus                                                          |
 | Location | Oak Ridge, TN                                                                                            |
 | Date     | 24 February 2018                                                                                         |
@@ -78,7 +78,7 @@ redirect_from:
 
 | Title    | Overview of model evaluation: "MCNP6" (2016)|
 | -------- | ------------------------------------------- |
-| Event    | Mars Space Radiation Modeling Workshop 2016 |
+| Event    | [Mars Space Radiation Modeling Workshop 2016](https://www.boulder.swri.edu/rad_modeling_workshop/) |
 | Host     | Southwest Research Institute                |
 | Location | Boulder, CO                                 |
 | Date     | 29 June 2016                                |
