@@ -25,7 +25,7 @@ redirect_from:
 2021 &ensp;(<font color="##00aeba">HVL</font>)
 ------
 
-| Title    | Neutron and gamma-ray detection for proton therapy range verification: <span style="font-weight:normal; float:right;">[2nd place winner of</span><br />NOVO prototype detector plans and connections to my past research in space radiation shielding  <span style="font-weight:normal; float:right;">lightning talk + poster session]</span>    |
+| Title    | Neutron and gamma-ray detection for proton therapy range verification: <span style="font-weight:normal; float:right;">[2nd place winner of lightning</span><br />NOVO prototype detector plans and connections to my past research in space radiation shielding  <span style="font-weight:normal; float:right;"> talk + poster session]</span>    |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | 2021 PhD Candidate Seminar session                                                         |
 | Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |

@@ -28,20 +28,5 @@ var addressPoints = [
     "Vossevangen, Norway",
     60.6285284,
     6.4115417
-  ],
-  [
-    "Vossevangen 5700, Norway",
-    60.6285284,
-    6.4115417
-  ],
-  [
-    "Voss, Norway",
-    60.6291046,
-    6.4101148
-  ],
-  [
-    "Park Hotel Vossevangen, Norway",
-    60.6285284,
-    6.4115417
   ]
 ];
