@@ -22,6 +22,17 @@ redirect_from:
         }
 </style>
 
+2021 &ensp;(<font color="##00aeba">HVL</font>)
+------
+
+| Title    | Neutron and gamma-ray detection for proton therapy range verification: <span style="font-weight:normal; float:right;">[2nd place winner of</span><br />NOVO prototype detector plans and connections to my past research in space radiation shielding  <span style="font-weight:normal; float:right;">lightning talk + poster session]</span>    |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | 2021 PhD Candidate Seminar session                                                         |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Voss, Norway                                                                                            |
+| Date     | 14 September 2021                                                                                         |
+{: .tablelines}
+
 2021 &ensp;(<font color="#407ff5">JAEA</font>)
 ------
 
@@ -93,6 +104,11 @@ Below is an interactive map showing where all of these talks were given!
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 
+### My Affiliations
+
+* __<font color="#C1751F">UTK</font>__ : The University of Tennessee, Knoxville
+* __<font color="#407ff5">JAEA</font>__ : Japan Atomic Energy Agency
+* __<font color="#00aeba">HVL</font>__ : Western Norway University of Applied Sciences (Høgskulen på Vestlandet)
 
 <!-- [Click to view a map of all of the talks I have given.](http://lindt8.github.io/talkmap.html) -->
 <!-- <embed src="http://lindt8.github.io/files/CV_Hunter_Ratliff.pdf" width="650" height="1800" type='application/pdf'> -->

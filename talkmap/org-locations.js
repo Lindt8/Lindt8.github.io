@@ -6,13 +6,13 @@ var addressPoints = [
   ],
   [
     "701 Briarcliff Avenue, Oak Ridge, TN 37830",
-    36.022695,
-    -84.2317223
+    36.02226815,
+    -84.23229570251357
   ],
   [
     "828 Paseo De Peralta, Santa Fe, NM 87501",
-    35.686505,
-    -105.9347528
+    35.68642535,
+    -105.9348916994722
   ],
   [
     "Gofuku, Toyama-shi, Toyama-ken, Japan",
@@ -23,5 +23,25 @@ var addressPoints = [
     "Takata, Kashiwa-shi, Chiba-ken, Japan",
     35.87666615,
     139.9567391689045
+  ],
+  [
+    "Vossevangen, Norway",
+    60.6285284,
+    6.4115417
+  ],
+  [
+    "Vossevangen 5700, Norway",
+    60.6285284,
+    6.4115417
+  ],
+  [
+    "Voss, Norway",
+    60.6291046,
+    6.4101148
+  ],
+  [
+    "Park Hotel Vossevangen, Norway",
+    60.6285284,
+    6.4115417
   ]
 ];
