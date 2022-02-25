@@ -22,6 +22,36 @@ redirect_from:
         }
 </style>
 
+
+2022 &ensp;(<font color="##00aeba">HVL</font>)
+------
+<!--
+| Title    | Title of my upcoming NOVO talk/presentation     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | 2022 PhD Candidate Seminar session                                                         |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Rosendal, Norway                                                                                            |
+| Date     | 10-12 May 2022                                                                                         |
+{: .tablelines}
+-->
+
+| Title    | Nuclear power: Our savior toward a cleaner energy future     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | KRONTalk                                                         |
+| Host     | Kronbar at The Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 10 March 2022                                                                                         |
+{: .tablelines}
+
+| Title    | Secondary Neutron Production: in space (and ion therapy)     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [WANDA 2022](https://conferences.lbl.gov/event/880/) ([Workshop for Applied Nuclear Data Activities](https://nucleardata.berkeley.edu/wanda/))                                                        |
+| Host     | Lawrence Berkeley National Laboratory                                                          |
+| Location | Online                                                                                            |
+| Date     | 2 March 2022                                                                                         |
+{: .tablelines}
+
+
 2021 &ensp;(<font color="##00aeba">HVL</font>)
 ------
 
