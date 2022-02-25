@@ -12,7 +12,7 @@ redirect_from:
 
 I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, and am presently a postdoctoral fellow/researcher at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet).
 
-At HVL I am working on the development, analysis, and deployment of a prototype radiation detector that seeks to more precisely determine dose depositions delivered in proton radiotherapy treatments to then allow for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.
+At HVL I am working on the development, modeling, analysis, and deployment of a prototype radiation detector that seeks to more precisely determine dose depositions delivered in proton radiotherapy treatments to then allow for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.
 
 Professional interests
 ======
