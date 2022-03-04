@@ -35,7 +35,7 @@ redirect_from:
 {: .tablelines}
 -->
 
-| Title    | Nuclear power: Our savior toward a cleaner energy future     |
+| Title    | Is nuclear power our savior toward a cleaner energy future?   <span style="font-weight:normal; float:right;">[Invited]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | KRONTalk                                                         |
 | Host     | Kronbar at The Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
