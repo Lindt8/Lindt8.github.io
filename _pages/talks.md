@@ -43,7 +43,7 @@ redirect_from:
 | Date     | 10 March 2022                                                                                         |
 {: .tablelines}
 
-| Title    | Secondary Neutron Production: in space (and ion therapy)     |
+| Title    | [Secondary Neutron Production: in space (and ion therapy)](https://conferences.lbl.gov/event/880/#58-secondary-neutron-productio)   <span style="font-weight:normal; float:right;">[Invited]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | [WANDA 2022](https://conferences.lbl.gov/event/880/) ([Workshop for Applied Nuclear Data Activities](https://nucleardata.berkeley.edu/wanda/))                                                        |
 | Host     | Lawrence Berkeley National Laboratory                                                          |
