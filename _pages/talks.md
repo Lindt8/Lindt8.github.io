@@ -35,7 +35,7 @@ redirect_from:
 {: .tablelines}
 -->
 
-| Title    | [Is nuclear power our savior toward a cleaner energy future?](https://www.youtube.com/watch?v=pNdny6oeSSM)   <span style="font-weight:normal; float:right;">[Invited]</span>  |
+| Title    | Is nuclear power our savior toward a cleaner energy future? [[studio recording](https://www.youtube.com/watch?v=oek8vd2pop4) \| [live recording](https://www.youtube.com/watch?v=pNdny6oeSSM)]   <span style="font-weight:normal; float:right;">[Invited]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | KRONTalk                                                         |
 | Host     | Kronbar at The Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
