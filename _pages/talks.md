@@ -35,6 +35,14 @@ redirect_from:
 {: .tablelines}
 -->
 
+| Title    | The argument for nuclear power (and in Vestlandet) [[live audio recording](https://bergenbibliotek.no/e-bibliotek/bobcast)]   <span style="font-weight:normal; float:right;">[Invited public debate]</span>  |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [Academic Lunch Special: Nuclear power - yes or no thanks?](https://www.uib.no/en/ub/155698/nuclear-power-yes-or-no-thanks) <br />[Akademisk Lunsj Spesial: Atomkraft - ja eller nei takk?](https://www.uib.no/ub/155696/atomkraft-ja-eller-nei-takk)                                                         |
+| Host     | Bergen Public Library \| Bergen Offentlige Bibliotek                                                          |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 24 August 2022                                                                                         |
+{: .tablelines}
+
 | Title    | Is nuclear power our savior toward a cleaner energy future? [[studio recording](https://www.youtube.com/watch?v=oek8vd2pop4) \| [live recording](https://www.youtube.com/watch?v=pNdny6oeSSM)]   <span style="font-weight:normal; float:right;">[Invited]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | KRONTalk                                                         |
