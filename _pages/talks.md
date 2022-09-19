@@ -35,7 +35,7 @@ redirect_from:
 {: .tablelines}
 -->
 
-| Title    | The argument for nuclear power (and in Vestlandet) [debate audio recording: [SoundCloud](https://soundcloud.com/bergenbibliotek/atomkraft-ja-eller-nei-takk) / [Spotify](https://open.spotify.com/episode/05up4yau5dId2afGgU9TzL?si=Vc-CoqxiQSiwSSYBR-fCRw)]   <span style="font-weight:normal; float:right;">[Invited public debate]</span>  |
+| Title    | The argument for nuclear power (and in Vestlandet) [live audio recording: [SoundCloud](https://soundcloud.com/bergenbibliotek/atomkraft-ja-eller-nei-takk) / [Spotify](https://open.spotify.com/episode/05up4yau5dId2afGgU9TzL?si=Vc-CoqxiQSiwSSYBR-fCRw)]   <span style="font-weight:normal; float:right;">[Invited public debate]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | [Academic Lunch Special: Nuclear power - yes or no thanks?](https://www.uib.no/en/ub/155698/nuclear-power-yes-or-no-thanks) <br />[Akademisk Lunsj Spesial: Atomkraft - ja eller nei takk?](https://www.uib.no/ub/155696/atomkraft-ja-eller-nei-takk)                                                         |
 | Host     | Bergen Public Library \| Bergen Offentlige Bibliotek                                                          |
