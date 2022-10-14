@@ -45,7 +45,7 @@ I entered college as an aerospace engineering major, hoping to eventually find m
 
 At the end of my undergraduate experience, I learned of the numerous space-related applications of nuclear engineering such as RTGs (radioisotope thermoelectric generators), nuclear thermal propulsion, and radiation protection for both astronauts and electronics.  Realizing I could apply my nuclear engineering knowledge toward my original goal of working in space-related fields, I decided to go to graduate school to pursue these interests and prepare myself for a career in these areas.  
 
-While in grad school, I worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space radiation remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my current position working as a developer of the PHITS code.
+While in grad school, I worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space radiation remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my previous position working as a developer of the PHITS code and current position working on detector development in the context of medical physics.
 
 
 Events and recent news
