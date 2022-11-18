@@ -35,12 +35,28 @@ redirect_from:
 {: .tablelines}
 -->
 
+| Title    | PHITS-aided design of a scintillator bar array for neutron and gamma-ray imaging in particle therapy  <span style="font-weight:normal; float:right;">[Poster]</span>    |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [2022 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference](https://hps.org/newsandevents/newsarchive/oldnews1289.html)                                                            |
+| Host     | IEEE (Institute of Electrical and Electronics Engineers)                                                          |
+| Location | Milan, Italy                                                                                            |
+| Date     | 10 November 2022                                                                                         |
+{: .tablelines}
+
 | Title    | The argument for nuclear power (and in Vestlandet) [live audio recording: [SoundCloud](https://soundcloud.com/bergenbibliotek/atomkraft-ja-eller-nei-takk) / [Spotify](https://open.spotify.com/episode/05up4yau5dId2afGgU9TzL?si=Vc-CoqxiQSiwSSYBR-fCRw)]   <span style="font-weight:normal; float:right;">[Invited public debate]</span>  |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | [Academic Lunch Special: Nuclear power - yes or no thanks?](https://www.uib.no/en/ub/155698/nuclear-power-yes-or-no-thanks) <br />[Akademisk Lunsj Spesial: Atomkraft - ja eller nei takk?](https://www.uib.no/ub/155696/atomkraft-ja-eller-nei-takk)                                                         |
 | Host     | Bergen Public Library \| Bergen Offentlige Bibliotek                                                          |
 | Location | Bergen, Norway                                                                                            |
 | Date     | 24 August 2022                                                                                         |
+{: .tablelines}
+
+| Title    | Design and optimization of NOVO radiation detector prototypes with Monte Carlo simulations in PHITS    |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | 2022 PhD Candidate Seminar session                                                         |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Rosendal, Norway                                                                                            |
+| Date     | 12 May 2022                                                                                         |
 {: .tablelines}
 
 | Title    | Is nuclear power our savior toward a cleaner energy future? [[studio recording](https://www.youtube.com/watch?v=oek8vd2pop4) \| [live recording](https://www.youtube.com/watch?v=pNdny6oeSSM)]   <span style="font-weight:normal; float:right;">[Invited]</span>  |

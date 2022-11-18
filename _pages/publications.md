@@ -14,6 +14,10 @@ author_profile: true
 
 2022 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
+
+
+<!-- * "[__PHITS-aided design of a scintillator bar array for neutron and gamma-ray imaging in particle therapy__]()," <u>H.N. Ratliff</u>, T. Kögler, I. Meric, Proceedings of 2022 IEEE NSS MIC RTSD, 2022. (*submitted*) (__<font color="#00aeba">HVL</font>__) -->
+
 * "[__A hybrid multi-particle approach to range assessment-based treatment verification in particle therapy__]()," I. Meric, E. Alagoz, L.B. Hysing, T. Kögler, D. Lathouwers, W.R.B. Lionheart, J. Mattingly, J. Obhodas, G. Pausch, H.E.S. Pettersen, <u>H.N. Ratliff</u>, M. Rovituso, S.M. Schellhammer, L.M. Setterdah, K. Skjerdal, E. Sterpin, D. Sudac, J.A. Turko, and K.S. Ytre-Hauge, Nature Communications, 2022. (*submitted*) (__<font color="#00aeba">HVL</font>__)
    * [<font color="#90ba6e">[Direct link to Submitted Preprint]</font>](https://doi.org/10.21203/rs.3.rs-2181813/v1) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
