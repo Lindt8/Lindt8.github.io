@@ -9,11 +9,14 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Professional coding projects"
+  - title: "Professional coding"
     url: /professional-code-projects/
 
-  - title: "Hobby coding projects"
+  - title: "Hobby coding"
     url: /hobby-code-projects/
+
+  - title: "Photography"
+    url: /photo-gallery/
 
   - title: "Blog posts"
     url: /year-archive/
