@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- * "[__PHITS-aided design of a scintillator bar array for neutron and gamma-ray imaging in particle therapy__]()," <u>H.N. Ratliff</u>, T. Kögler, I. Meric, Proceedings of 2022 IEEE NSS MIC RTSD, 2022. (*submitted*) (__<font color="#00aeba">HVL</font>__) -->
 
-* "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__]()," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler, Journal of Instrumentation, 2023. (*submitted*)
+* "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__]()," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler, Journal of Instrumentation, 2023. (*in review*)
 
 
 * "[__Development of scalable deconvolution methods for determining secondary target neutron yields from dual-thick-target cosmic-ray ion accelerator experiments__](https://doi.org/10.1016/j.nimb.2023.165121)," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 544, 165121, November 2023. (__<font color="#C1751F">UTK</font>__)
