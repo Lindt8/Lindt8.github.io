@@ -14,7 +14,7 @@ author_profile: true
 
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-* "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__]()," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, 2024. (*in review*)
+* "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__](https://doi.org/10.1080/00223131.2023.2275736)," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, 2024. (*in production*)
 
 
 2023 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
