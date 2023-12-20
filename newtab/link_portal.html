@@ -78,7 +78,7 @@
 	var sky = "clear";
 	var dc = "°C";
     var iconcode = "13d";
-    var iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
+    var iconurl = "https://openweathermap.org/img/w/" + iconcode + ".png";
 	
 	function retrieveWeather() {
 		console.log("in retrieveWeather");
@@ -103,7 +103,7 @@
 					pop = jsonWeather.main.humidity;
 					sky = jsonWeather.weather[0].description;
                     iconcode = jsonWeather.weather[0].icon;
-                    iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
+                    iconurl = "https://openweathermap.org/img/w/" + iconcode + ".png";
 					console.log(temp + ","  + high + ","  + low + ","  + pop + ","  + sky + ","  + iconurl);
 					
 					updateWeather();
@@ -113,10 +113,7 @@
 				}
 			}
 		};
-		// xhr.open("GET", "http://api.wunderground.com/api/282956cd5527a24c/conditions/forecast/q/TN/Knoxville.json");
-		// xhr.open("GET", "http://api.wunderground.com/api/282956cd5527a24c/conditions/forecast/q/pws:KTNKNOXV198.json");
-		// xhr.open("GET", "http://api.openweathermap.org/data/2.5/weather?id=6822096&APPID=93b024fd76e5e7d5368e038cd0e65253"); // Hitachi-naka
-		xhr.open("GET", "http://api.openweathermap.org/data/2.5/weather?id=3161733&APPID=93b024fd76e5e7d5368e038cd0e65253"); // Bergen
+		xhr.open("GET", "https://api.openweathermap.org/data/2.5/weather?id=3161733&APPID=93b024fd76e5e7d5368e038cd0e65253"); // Bergen
         xhr.send(null);
 	}
 	
@@ -312,16 +309,16 @@
 			<table>
 				<tr>
 					<td><a href='https://beta.crunchyroll.com/watchlist'><img src="logos/CR_orange.png"></a></td>
-					<td><a href='http://myanimelist.net/profile/Lindt'><img src="logos/MAL.png"></a></td>
+					<td><a href='https://myanimelist.net/profile/Lindt'><img src="logos/MAL.png"></a></td>
                     <td><a href='https://www.kenmei.co/dashboard'><img src="logos/kenmei_2.png"></a></td>
-                    <td><a href='http://www.nndc.bnl.gov/chart/'><img src="logos/nuclides.png"></a></td>
-					<td><a href='http://www.ptable.com/'><img src="logos/Ptable.png"></a></td>
+                    <td><a href='https://www.nndc.bnl.gov/chart/'><img src="logos/nuclides.png"></a></td>
+					<td><a href='https://www.ptable.com/'><img src="logos/Ptable.png"></a></td>
                     <td><a href='https://hvl.instructure.com/'><img src="logos/Canvas.png"></a></td>
 					<!--
 					<td><a href='https://www.amazon.com/gp/video/watchlist/ref=sv_atv_7'><img src="logos/Amazon_video.png"></a></td>
                     <td><a href='https://vrv.co/watchlist'><img src="logos/VRV_dark.png"></a></td>
-					<td><a href='http://www.mmo-champion.com'><img src="logos/MMO.png"></a></td>
-					<td><a href='http://www.wowhead.com/'><img src="logos/WH.png"></a></td>
+					<td><a href='https://www.mmo-champion.com'><img src="logos/MMO.png"></a></td>
+					<td><a href='https://www.wowhead.com/'><img src="logos/WH.png"></a></td>
                     //-->
 				</tr>
 				<tr>
@@ -346,7 +343,7 @@
 					<td><a href='https://www.yr.no/en/forecast/daily-table/1-92416/Norway/Vestland/Bergen/Bergen'><img src="logos/YR.png"></a></td>
 					<!-- 
                     <td><a href='https://www.speedtest.net/'><img src="logos/Speedtest.png"></a></td>
-					<td><a href='http://www.nndc.bnl.gov/'><img src="logos/NNDC.png"></a></td>
+					<td><a href='https://www.nndc.bnl.gov/'><img src="logos/NNDC.png"></a></td>
 					<td><a href='https://utk.instructure.com/'><img src="logos/Canvas.png"></a></td>
 					//-->
 					
