@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+
+
+<head>
+	<meta charset="UTF-8" />
+	<title>New Tab</title>
+	
+	<style>
+	body {
+		background-image: url("Rain2.jpg");
+		background-size: 100%;
+		background-color: #111111;
+		color: #1B2631;
+		/* color: #1C2833 #212F3C; */
+		font-size: 20px;
+		font-weight: normal;
+		font-family: "Bookman Old Style";
+	}
+	
+	
+	div.center {
+		position: fixed;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-58%);
+		padding: 15px;
+		border-radius: 10px;
+		background-color: rgba(0, 18, 51,0.0);
+	}
+	div.weather_time{
+		background-color: rgba(0, 18, 51,0.0);
+		padding: 15px 15px 5px 15px;
+		margin: 15px;
+		border-radius: 10px;
+		text-align: center;
+	
+	
+	}
+	
+	#temp,#high,#low,#pop,#sky,#icon,#weekday,#day,#time{
+	display: inline;
+	}
+	
+	#weekday,#day,#time{
+	font-size: 28px;
+	}
+	
+	table {
+		align: center;
+	}
+	div.link_table{
+		background-color: rgba(0, 18, 51,0.8);
+		padding: 15px;
+		margin: 15px;
+		border-radius: 10px;
+	}
+	td {
+		padding: 15px 15px 15px 15px;
+	}
+	img {
+		opacity: 0.85;
+		border-radius: 8px 8px 8px 8px;
+	}
+	img:hover {
+		opacity: 1.0;
+		transition-duration: 0.15s;
+	}
+	</style>
+
+	<script>
+	// wunderground api key: 282956cd5527a24c
+    // OpenWeather api key: 93b024fd76e5e7d5368e038cd0e65253
+	// variables for the divs
+	var temp = "0	";
+	var high = "50";
+	var low = "-50";
+	var pop = "50%";
+	var sky = "clear";
+	var dc = "°C";
+    var iconcode = "13d";
+    var iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
+	
+	function retrieveWeather() {
+		console.log("in retrieveWeather");
+		var xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function () {
+			if (xhr.readyState == 4) { // if complete
+				if (xhr.status == 200) { // if "OK"
+					console.log("got: " + xhr.responseText);
+					var jsonWeather = JSON.parse(xhr.responseText);
+					
+                    // Depricated WeatherUnderground API
+					// temp = jsonWeather.current_observation.temp_c;
+					// high = jsonWeather.forecast.simpleforecast.forecastday[0].high.celsius;
+					// low = jsonWeather.forecast.simpleforecast.forecastday[0].low.celsius;
+					// pop = jsonWeather.forecast.simpleforecast.forecastday[0].pop;
+					// sky = jsonWeather.forecast.simpleforecast.forecastday[0].conditions;
+					// console.log(temp + ","  + high + ","  + low + ","  + pop + ","  + sky);
+                    
+                    temp = (jsonWeather.main.temp - 273.15).toFixed(1);
+					high = (jsonWeather.main.temp_max - 273.15).toFixed(1);
+					low = (jsonWeather.main.temp_min - 273.15).toFixed(1);
+					pop = jsonWeather.main.humidity;
+					sky = jsonWeather.weather[0].description;
+                    iconcode = jsonWeather.weather[0].icon;
+                    iconurl = "http://openweathermap.org/img/w/" + iconcode + ".png";
+					console.log(temp + ","  + high + ","  + low + ","  + pop + ","  + sky + ","  + iconurl);
+					
+					updateWeather();
+				}
+				else {
+					console.log("xhr.status=" + xhr.status);
+				}
+			}
+		};
+		// xhr.open("GET", "http://api.wunderground.com/api/282956cd5527a24c/conditions/forecast/q/TN/Knoxville.json");
+		// xhr.open("GET", "http://api.wunderground.com/api/282956cd5527a24c/conditions/forecast/q/pws:KTNKNOXV198.json");
+		// xhr.open("GET", "http://api.openweathermap.org/data/2.5/weather?id=6822096&APPID=93b024fd76e5e7d5368e038cd0e65253"); // Hitachi-naka
+		xhr.open("GET", "http://api.openweathermap.org/data/2.5/weather?id=3161733&APPID=93b024fd76e5e7d5368e038cd0e65253"); // Bergen
+        xhr.send(null);
+	}
+	
+	function updateWeather() {
+		console.log("in updateWeather");
+		document.getElementById("temp").innerText = temp + dc;
+		document.getElementById("high").innerText = high + dc;
+		document.getElementById("low").innerText = low + dc;
+		document.getElementById("pop").innerText = pop;
+		document.getElementById("sky").innerText = sky;
+        document.getElementById("wicon").src = iconurl;
+	}
+	
+	function Weekday(num) {
+		switch (num) {
+			case 0:
+				return "Sunday";
+				break;
+			case 1:
+				return "Monday";
+				break;
+			case 2:
+				return "Tuesday";
+				break;
+			case 3:
+				return "Wednesday";
+				break;
+			case 4:
+				return "Thursday";
+				break;
+			case 5:
+				return "Friday";
+				break;
+			case 6:
+				return "Saturday";
+				break;			
+		}
+	}
+
+	function Month(num) {
+		switch (num) {
+			case 0:
+				return "January";
+				break;
+			case 1:
+				return "February";
+				break;
+			case 2:
+				return "March";
+				break;
+			case 3:
+				return "April";
+				break;
+			case 4:
+				return "May";
+				break;
+			case 5:
+				return "June";
+				break;
+			case 6:
+				return "July";
+				break;
+			case 7:
+				return "August";
+				break;
+			case 8:
+				return "September";
+				break;
+			case 9:
+				return "October";
+				break;
+			case 10:
+				return "November";
+				break;
+			case 11:
+				return "December";
+				break;		
+		}
+	}
+
+	function updateTime(today) {
+		var minutes = today.getMinutes();
+		minutes = (minutes < 10) ? "0" + minutes : minutes
+		var hours = today.getHours();
+		var suffix = (hours >= 12) ? "PM" : "AM"
+		hours = ((hours + 11) % 12 + 1);
+		document.getElementById("time").innerText = hours + ":" + minutes + " " + suffix;
+	}
+	function Month(num) {
+		switch (num) {
+			case 0:
+				return "January";
+				break;
+			case 1:
+				return "February";
+				break;
+			case 2:
+				return "March";
+				break;
+			case 3:
+				return "April";
+				break;
+			case 4:
+				return "May";
+				break;
+			case 5:
+				return "June";
+				break;
+			case 6:
+				return "July";
+				break;
+			case 7:
+				return "August";
+				break;
+			case 8:
+				return "September";
+				break;
+			case 9:
+				return "October";
+				break;
+			case 10:
+				return "November";
+				break;
+			case 11:
+				return "December";
+				break;		
+		}
+	}
+
+	function updateTime(today) {
+		var minutes = today.getMinutes();
+		minutes = (minutes < 10) ? "0" + minutes : minutes
+		var hours = today.getHours();
+		var suffix = (hours >= 12) ? "PM" : "AM"
+		hours = ((hours + 11) % 12 + 1);
+		document.getElementById("time").innerText = hours + ":" + minutes + " " + suffix;
+	}
+	
+	window.onload = function () {
+	
+		// date/time
+		var today = new Date();
+		document.getElementById("weekday").innerText = Weekday(today.getDay());
+		
+		var month = Month(today.getMonth());
+		var day = today.getDate();
+		document.getElementById("day").innerText = month + " " + day;
+		
+		setInterval(updateTime(today), 60000);
+		
+		// weather
+		retrieveWeather();
+		updateWeather(); // useless call since retrieve weather runs asyncronously
+		
+	};
+	
+	window.onfocus = function() {
+		updateTime(new Date());
+	};
+	
+	</script>
+
+</head>
+
+<body>
+	
+    <div class="center">
+		<div class="weather_time">
+		
+			<div id="weekday"></div>,  &nbsp;
+			<div id="day"></div>, &nbsp;
+			<div id="time"></div>
+			
+			<br>
+			
+			Current temp.&nbsp;<div id="temp"></div>&nbsp;
+			(<div id="low"></div>&nbsp;~
+			<div id="high"></div>),&nbsp;
+            <!--
+			High&nbsp;<div id="high"></div>,&nbsp;
+			Low&nbsp;<div id="low"></div>,&nbsp;
+			Chance of precip.&nbsp;<div id="pop"></div>%,
+            //-->
+            Humidity&nbsp;<div id="pop"></div>%,
+			<div id="sky"></div> 
+            <div id="icon"><img id="wicon" src="" alt="Weather icon" style="vertical-align:bottom"></div>
+            <!--
+            <div id="icon"><img id="wicon" src="" alt="Weather icon"></div>
+            //-->
+            
+		</div>
+		<div class="link_table">
+			<table>
+				<tr>
+					<td><a href='https://beta.crunchyroll.com/watchlist'><img src="logos/CR_orange.png"></a></td>
+					<td><a href='http://myanimelist.net/profile/Lindt'><img src="logos/MAL.png"></a></td>
+                    <td><a href='https://www.kenmei.co/dashboard'><img src="logos/kenmei_2.png"></a></td>
+                    <td><a href='http://www.nndc.bnl.gov/chart/'><img src="logos/nuclides.png"></a></td>
+					<td><a href='http://www.ptable.com/'><img src="logos/Ptable.png"></a></td>
+                    <td><a href='https://hvl.instructure.com/'><img src="logos/Canvas.png"></a></td>
+					<!--
+					<td><a href='https://www.amazon.com/gp/video/watchlist/ref=sv_atv_7'><img src="logos/Amazon_video.png"></a></td>
+                    <td><a href='https://vrv.co/watchlist'><img src="logos/VRV_dark.png"></a></td>
+					<td><a href='http://www.mmo-champion.com'><img src="logos/MMO.png"></a></td>
+					<td><a href='http://www.wowhead.com/'><img src="logos/WH.png"></a></td>
+                    //-->
+				</tr>
+				<tr>
+					<td><a href='https://www.youtube.com/feed/subscriptions'><img src="logos/YT.png"></a></td>
+					<td><a href='https://nebula.tv/videos'><img src="logos/Nebula.png"></a></td>
+					<td><a href='https://www.twitch.tv/directory/following'><img src="logos/twitch.png"></a></td>
+					<td><a href='https://www.facebook.com/messages/t/'><img src="logos/Facebook.png"></a></td>
+					<td><a href='https://mail.google.com/mail/?hl=en&shva=1#inbox'><img src="logos/gmail.png"></a></td>
+					<td><a href='https://outlook.office365.com/owa/#path=/mail'><img src="logos/Outlook.png"></a></td>
+				</tr>
+				<tr>
+					<td><a href='https://www.netflix.com/browse/my-list'><img src="logos/Netflix.png"></a></td>
+					<td><a href='https://play.hbomax.com/page/urn:hbo:page:home'><img src="logos/HBOmax.png"></a></td>
+					<td><a href='https://www.duolingo.com/learn'><img src="logos/Duolingo.png"></a></td>
+                    <!--
+                    <td><a href='link_portal_Japanese.html'><img src="logos/Japanese.png"></a></td>
+					<td><a href='https://maps.google.com/'><img src="logos/Google_Maps_2.png"></a></td> 
+                    <td><a href='https://myutk.utk.edu'><img src="logos/MyUTK.png"></a></td>
+                    //-->
+					<td><a href='https://maps.google.com/?authuser=0'><img src="logos/Google_Maps_2.png"></a></td>
+					<td><a href='https://translate.google.com/'><img src="logos/Google_Translate_2.png"></a></td>
+					<td><a href='https://www.yr.no/en/forecast/daily-table/1-92416/Norway/Vestland/Bergen/Bergen'><img src="logos/YR.png"></a></td>
+					<!-- 
+                    <td><a href='https://www.speedtest.net/'><img src="logos/Speedtest.png"></a></td>
+					<td><a href='http://www.nndc.bnl.gov/'><img src="logos/NNDC.png"></a></td>
+					<td><a href='https://utk.instructure.com/'><img src="logos/Canvas.png"></a></td>
+					//-->
+					
+				</tr>
+				
+			</table>
+		</div>
+    </div>
+</body>
