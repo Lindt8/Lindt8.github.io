@@ -20,13 +20,19 @@ author_profile: true
 
 
 
+2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+------
+
+* "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__](https://doi.org/10.1088/1748-0221/19/01/P01008)," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler on behalf of the NOVO collaboration, Journal of Instrumentation, 19, P01008, January 2024.
+  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01008) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
+
 2023 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
 
 <!-- * "[__PHITS-aided design of a scintillator bar array for neutron and gamma-ray imaging in particle therapy__]()," <u>H.N. Ratliff</u>, T. Kögler, I. Meric, Proceedings of 2022 IEEE NSS MIC RTSD, 2022. (*submitted*) (__<font color="#00aeba">HVL</font>__) -->
 
-* "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__]()," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler, Journal of Instrumentation, 2023.
+
 
 * "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__](https://doi.org/10.1080/00223131.2023.2275736)," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, November 2023.
   * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://www.tandfonline.com/doi/full/10.1080/00223131.2023.2275736) <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
