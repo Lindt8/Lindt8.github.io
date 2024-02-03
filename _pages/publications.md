@@ -28,6 +28,10 @@ author_profile: true
 * "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__](https://doi.org/10.1088/1748-0221/19/01/P01008)," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler on behalf of the NOVO collaboration, Journal of Instrumentation, 19, P01008, January 2024.
   * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01008) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
+
+* "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__](https://doi.org/10.1080/00223131.2023.2275736)," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, 61:1, 127-135, January 2024.
+  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://www.tandfonline.com/doi/full/10.1080/00223131.2023.2275736) <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+
 2023 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
@@ -36,8 +40,7 @@ author_profile: true
 
 
 
-* "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__](https://doi.org/10.1080/00223131.2023.2275736)," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, November 2023.
-  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://www.tandfonline.com/doi/full/10.1080/00223131.2023.2275736) <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+
 
 
 * "[__Development of scalable deconvolution methods for determining secondary target neutron yields from dual-thick-target cosmic-ray ion accelerator experiments__](https://doi.org/10.1016/j.nimb.2023.165121)," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 544, 165121, November 2023. (__<font color="#C1751F">UTK</font>__)
