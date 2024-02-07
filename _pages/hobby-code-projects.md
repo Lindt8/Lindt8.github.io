@@ -21,6 +21,12 @@ This is an easy-to-use Python tool for making custom interactive Scalable Vector
 <p></p>
 
 
+[<u>Schengen schedule calculator</u>](https://hratliff.com/posts/schengen-schedule-calculator/)
+======
+This is a spreadsheet tool that can be used for planning trips to the Schengen Area while obeying its requirement (for noncitizens/nonresidents) to never exceed 90 days spent in Schengen in *any* 180-day rolling window.  Such a simply described rule results in some rather complicated possible scheduling headaches, and this spreadsheet provides an accessible solution to designing travel plans adherent to the requirement along with providing insight on how planned stays affect potential future visits to the Schengen Area too.
+
+
+
 [<u>Wallpaper aspect ratio trimmer</u>](https://github.com/Lindt8/Wallpaper_aspect_ratio_trimmer)
 ======
 This is a simple Python script written to take any locally stored wallpaper, determine if its aspect ratio is 16:9, and, if not, provide the user with three options where the photo has been trimmed down to a 16:9 aspect ratio to save if desired.  The paths leading to the local wallpaper folders can easily be changed as well as the desired aspect ratio too.
