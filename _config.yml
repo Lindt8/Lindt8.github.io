@@ -119,6 +119,19 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "goodreads"
+      icon: "fab fa-goodreads"
+      url: "https://www.goodreads.com/hunter_ratliff"
+    - label: "Manga List"
+      icon: "fas fa-book-open"
+      url: "https://myanimelist.net/mangalist/Lindt"
+    - label: "Anime List"
+      icon: "fas fa-tv"
+      url: "https://myanimelist.net/animelist/Lindt"
+    - label: "Letterboxd"
+      icon: "fas fa-film"
+      url: "https://letterboxd.com/Lindt8/"
 
 
 # Reading Files
