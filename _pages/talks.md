@@ -22,6 +22,27 @@ redirect_from:
         }
 </style>
 
+2024 &ensp;(<font color="##00aeba">HVL</font>)
+------
+<!--
+| Title    | Title of my upcoming NOVO talk/presentation     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | 2022 PhD Candidate Seminar session                                                         |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Rosendal, Norway                                                                                            |
+| Date     | 10-12 May 2022                                                                                         |
+{: .tablelines}
+-->
+
+
+| Title    | Neutron imaging with the prototype detectors of the NOVO project: Overcoming experimental and data filtering challenges in NOVO’s first physical step toward proton radiotherapy range verification     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | HVL Data Science Seminar Series                                          |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 22 February 2024                                                               |
+{: .tablelines}
+
 
 2022 &ensp;(<font color="##00aeba">HVL</font>)
 ------
