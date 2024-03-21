@@ -34,8 +34,27 @@ redirect_from:
 {: .tablelines}
 -->
 
+| Title    | Neutron imaging with the prototype detectors of the NOVO project    <span style="font-weight:normal; float:right;">[Invited]</span> |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [Proton seminar on research (Protonseminar om forsking)](https://www.helse-bergen.no/arrangementer/protonseminar-om-forsking2/)                                          |
+| Host     | Haukeland University Hospital                                                          |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 21 March 2024                                                               |
+{: .tablelines}
 
-| Title    | Neutron imaging with the prototype detectors of the NOVO project: Overcoming experimental and data filtering challenges in NOVO’s first physical step toward proton radiotherapy range verification     |
+
+
+| Title    | Status of the NOVCoDA demonstrator prototype – Simulations & reconstruction   |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | European Innovation Council: NOVO Kick-off Meeting                                          |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 13 March 2024                                                               |
+{: .tablelines}
+
+
+
+| Title    | Neutron imaging with the prototype detectors of the NOVO project: Overcoming experimental and data filtering challenges in NOVO’s first physical step toward proton radiotherapy range verification    <span style="font-weight:normal; float:right;">[Invited]</span> |
 | -------- | -------------------------------------------------------------------------------------------------------- |
 | Event    | HVL Data Science Seminar Series                                          |
 | Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
