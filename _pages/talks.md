@@ -24,15 +24,15 @@ redirect_from:
 
 2024 &ensp;(<font color="##00aeba">HVL</font>)
 ------
-<!--
-| Title    | Title of my upcoming NOVO talk/presentation     |
+
+| Title    | Neutron imaging in the NOVO project's proton radiotherapy range verification mission: from theory to experiment     |
 | -------- | -------------------------------------------------------------------------------------------------------- |
-| Event    | 2022 PhD Candidate Seminar session                                                         |
+| Event    | 2024 PhD Candidate Seminar session                                                         |
 | Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
-| Location | Rosendal, Norway                                                                                            |
-| Date     | 10-12 May 2022                                                                                         |
+| Location | Bergen, Norway                                                                                            |
+| Date     | 14 May 2024                                                                                         |
 {: .tablelines}
--->
+
 
 | Title    | Neutron imaging with the prototype detectors of the NOVO project    <span style="font-weight:normal; float:right;">[Invited]</span> |
 | -------- | -------------------------------------------------------------------------------------------------------- |
