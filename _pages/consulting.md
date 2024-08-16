@@ -4,8 +4,8 @@ header-img: "images/default-site-banner-image_v1.png"
 permalink: /consulting/
 author_profile: true
 redirect_from:
-  - /consultancy/
-  - /consult/
+  - hratliff.com/consultancy/
+  - hratliff.com/consult/
 tags:
   - consulting
   - radiation
@@ -59,7 +59,7 @@ PHITS can model and I have experience simulating scenarios including (but not li
 - **Gamma-ray spectroscopy** including detector resolution effects
 - **Neutron time-of-flight** measurements with various timing schemes
 - **Gamma-ray transmission** for determining material thickness/density
-- **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample or stucture during and after irradiation (of any irradiation schedule) by any type of radiation source, and the dose rate distributions resulting from the secondary radiation field produced by the activated materials
+- **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample or structure during and after irradiation (of any irradiation schedule) by any type of radiation source, and the dose rate distributions resulting from the secondary radiation field produced by the activated materials
 - **High-energy ion beam** experiments and secondary particle yields
 - **Scintillator detector response** function generation
 - **Radiation therapy**, using DICOM medical imaging files to model CT/PET/SPECT scans
