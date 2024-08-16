@@ -4,8 +4,8 @@ header-img: "images/default-site-banner-image_v1.png"
 permalink: /consulting/
 author_profile: true
 redirect_from:
-  - hratliff.com/consultancy/
-  - hratliff.com/consult/
+  - /consultancy/
+  - /consult/
 tags:
   - consulting
   - radiation
