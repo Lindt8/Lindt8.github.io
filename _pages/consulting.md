@@ -38,7 +38,7 @@ layout: archive
 ------
 
 
-### Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  
+## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  
 ----
 
 Radiation transport simulations are an excellent tool for getting answers far more quickly and easily than measurement and can be used for design (of experiments, radiation detectors, shielding, sources, etc.) and prediction/validation of measured results.
@@ -63,7 +63,7 @@ PHITS can model and I have experience simulating scenarios including (but not li
 - **Facility design**, with electromagnetic fields for guiding/bending/focusing charged beams
 - **Space radiation** interactions (cosmic radiation, solar particle events)
 
-This is by no means an exhaustive list.  PHITS can model nearly any scenario one can imagine involving radiation traversing matter and track all physical quantities of interest, something I have taken advantage of extensively in my years of using it for solving a large variety of challenges.
+This is by no means an exhaustive list.  PHITS can model nearly any scenario one can imagine involving radiation traversing matter and track all physical quantities of interest, something I have taken advantage of extensively in my years of solving a large variety of challenges with it.
 
 If you have any inquiries, please drop me a line at [consulting@hratliff.com](mailto:consulting@hratliff.com), and we can explore how I may be able to help with any radiation-related challenges you may face.
 
