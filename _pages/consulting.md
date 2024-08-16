@@ -24,11 +24,11 @@ tags:
   - beam
 ---
 
-
+{% include base_path %}
 
 
 <!--
-{% include base_path %}
+
 layout: archive
 
 2024 &ensp;(<font color="#00aeba">HVL</font>)
@@ -36,6 +36,8 @@ layout: archive
 
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
+
+test
 
 Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  Radiation transport simulations are an excellent tool for getting answers far more quickly and easily than measurement and can be used for design (of experiments, radiation detectors, shielding, sources, etc.) and prediction/validation of measured results.
 
