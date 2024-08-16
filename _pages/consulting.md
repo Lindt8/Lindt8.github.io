@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "H. Ratliff Consulting"
 header-img: "images/default-site-banner-image_v1.png"
 permalink: /consulting/
@@ -29,11 +28,12 @@ tags:
 
 
 <!--
-
 {% include base_path %}
+layout: archive
 
 2024 &ensp;(<font color="#00aeba">HVL</font>)
 -->
+
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
@@ -41,7 +41,7 @@ Do you have any radiation-related challenges or questions you would like explore
 
 With an education and long background in nuclear engineering and armed with years of experience utilizing powerful radiation modeling tools, I seek to provide expert-informed, theoretically sound, and numerically supported solutions to a broad range of radiation-related challenges you may face.
 
-I am an expert user and former developer of the [PHITS](https://phits.jaea.go.jp/)<font color="#90ba6e">code</font> general-purpose particle transport code, one of the major codes of its type with thousands of users worldwide at various academic, national lab, and industry locations.  While working on the PHITS development team in Japan, I specifically led development and modernization of the <font color="#90ba6e">[DCHAIN-PHITS](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf)</font> buildup, burnup, activation, and decay code coupled to PHITS.  
+I am an expert user and former developer of the [PHITS](https://phits.jaea.go.jp/) <font color="#90ba6e">code</font> general-purpose particle transport code, one of the major codes of its type with thousands of users worldwide at various academic, national lab, and industry locations.  While working on the PHITS development team in Japan, I specifically led development and modernization of the <font color="#90ba6e">[DCHAIN-PHITS](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf)</font> buildup, burnup, activation, and decay code coupled to PHITS.  
 
 
 
