@@ -38,7 +38,7 @@ layout: archive
 ------
 
 
-#### Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  
+### Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  
 ----
 
 Radiation transport simulations are an excellent tool for getting answers far more quickly and easily than measurement and can be used for design (of experiments, radiation detectors, shielding, sources, etc.) and prediction/validation of measured results.
@@ -49,7 +49,7 @@ I am an expert user and former developer of the [PHITS](https://phits.jaea.go.jp
 
 
 
-The types of scenarios PHITS can model and I have experience simulating include (but are not limited to):
+PHITS can model and I have experience simulating scenarios including (but not limited to):
 - **Dose rate determination** in a given source and shielding scenario
 - **Shielding design** to achieve a desired dose distribution / maximum dose rate
 - **Detector design**, multi-hit coincident interaction detection, optimizing arrangement
@@ -60,10 +60,10 @@ The types of scenarios PHITS can model and I have experience simulating include 
 - **High-energy ion beam** experiments and secondary particle yields
 - **Scintillator detector response** function generation
 - **Radiation therapy**, using DICOM medical imaging files to model CT/PET/SPECT scans
-- **Facility design**, including electromagnetic fields for guiding/bending/focusing charged beams
+- **Facility design**, with electromagnetic fields for guiding/bending/focusing charged beams
 - **Space radiation** interactions (cosmic radiation, solar particle events)
 
-This is by no means an exhaustive list.  PHITS can model nearly any scenario one can imagine involving radiation traversing matter and track all physical quantities of interest, something I have taken advantage of extensively in my years of using the code for solving a large variety of challenges.
+This is by no means an exhaustive list.  PHITS can model nearly any scenario one can imagine involving radiation traversing matter and track all physical quantities of interest, something I have taken advantage of extensively in my years of using it for solving a large variety of challenges.
 
 If you have any inquiries, please drop me a line at [consulting@hratliff.com](mailto:consulting@hratliff.com), and we can explore how I may be able to help with any radiation-related challenges you may face.
 
