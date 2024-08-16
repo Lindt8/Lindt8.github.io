@@ -38,8 +38,8 @@ layout: archive
 ------
 
 
-## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to any work on the ground?  
-----
+## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to work on the ground?  
+
 
 Radiation transport simulations are an excellent tool for getting answers far more quickly and easily than measurement and can be used for design (of experiments, radiation detectors, shielding, sources, etc.) and prediction/validation of measured results.
 
@@ -54,8 +54,8 @@ PHITS can model and I have experience simulating scenarios including (but not li
 - **Shielding design** to achieve a desired dose distribution / maximum dose rate
 - **Detector design**, multi-hit coincident interaction detection, optimizing arrangement
 - **Gamma-ray spectroscopy** including detector resolution effects
-- **Neutron time-of-flight** measurements
-- **Neutron/gamma ray** transmission measurements
+- **Neutron time-of-flight** measurements with various timing schemes
+- **Gamma-ray transmission** for determining material thickness/density
 - **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample or stucture during and after irradiation (of any irradiation schedule) by any type of radiation source, and the dose rate distributions resulting from the secondary radiation field produced by the activated materials
 - **High-energy ion beam** experiments and secondary particle yields
 - **Scintillator detector response** function generation
