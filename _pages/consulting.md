@@ -79,4 +79,5 @@ Add small statement/disclaimer about being a sole proprietorship registered in N
 
 <!--
 Make section for already completed consulting work.
+Include a testimonial from client, ideally with hard data on savings/benefits.
 -->
