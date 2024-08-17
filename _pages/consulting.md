@@ -42,8 +42,8 @@ layout: archive
 ## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to work on the ground?
 
 \
-Radiation transport simulations are an excellent tool for getting answers far more quickly and easily than measurement, and they can be used for design (of experiments, radiation detectors, shielding, sources, etc.) and prediction/validation of measured results.
-<!-- Add a sentence further explaining benefits of doing modeling work, and rework first sentence. -->
+Radiation transport simulations are an excellent tool for getting answers quickly and efficiently, saving time and resources compared to comparable explorative measurements and also being incredibly useful for design (of experiments, radiation detectors, shielding, sources, etc.)&mdash;enabling easy exploration of various ideas and their iterations&mdash;and prediction and validation of real measured results.  They allow one to test the feasibility of and have confidence in a design/idea before committing the resources to building/executing it as well as providing extra confidence that the actual observed results are trustworthy and as theory predicts they should be.
+
 
 With an education and long background in nuclear engineering and armed with years of experience utilizing powerful radiation modeling tools, I seek to provide expert-informed, theoretically sound, and numerically supported solutions to a broad range of radiation-related challenges you may face.
 
