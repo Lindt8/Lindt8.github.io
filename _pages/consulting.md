@@ -26,10 +26,7 @@ tags:
   - cosmic rays
   - beam
 ---
-
 {% include base_path %}
-
-
 <!--
 
 layout: archive
@@ -39,7 +36,6 @@ layout: archive
 
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-
 ### Nuclear engineer / Expert radiation transport modeler
 
 
