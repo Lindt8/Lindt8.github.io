@@ -44,7 +44,7 @@ layout: archive
 ## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to work on the ground?
 
 \
-Radiation transport simulations are an excellent tool for getting answers quickly and efficiently, saving time and resources compared to comparable explorative measurements.  Applied in design efforts (of experiments, radiation detectors, shielding, sources, etc.), they enable easy exploration of various ideas and their iterations, and simulations can be used to predict and validate real measured results too.  They allow one to test the feasibility of and have confidence in a design/idea before committing the resources to building/executing it as well as providing extra confidence that the real observed results are trustworthy and as theory predicts they should be.
+Radiation transport simulations are an excellent tool for getting answers quickly and efficiently, saving time and resources compared to comparable explorative measurements.  In design efforts (of experiments, radiation detectors, shielding, sources, etc.) they enable easy exploration of various ideas and their iterations, and simulations can be used to predict and validate real measured results too.  They allow one to test the feasibility of and have confidence in a design/idea before committing the resources to building/executing it as well as providing extra confidence that the real observed results are trustworthy and as theory predicts they should be.
 
 
 With an education and long background in nuclear engineering and armed with years of experience utilizing powerful radiation modeling tools, I seek to provide expert-informed, theoretically sound, and numerically supported solutions to a broad range of radiation-related challenges you may face.
@@ -60,8 +60,8 @@ PHITS can model and I have experience simulating scenarios including (but not li
 - **Gamma-ray spectroscopy** including detector resolution effects
 - **Neutron time-of-flight** measurements with various timing schemes
 - **Gamma-ray transmission** for determining material thickness/density
-- **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample or structure during and after irradiation (of any irradiation schedule) by any type of radiation source 
--  **Activation dose rate distributions** resulting from the secondary radiation field produced by activated materials
+- **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample/structure during and after irradiation (of any irradiation schedule) by any radiation source
+-  **Activation dose rate distributions** from the secondary radiation produced by activated materials
 - **High-energy ion beam** experiments and secondary particle yields
 - **Scintillator detector response** function generation
 - **Radiation therapy**, using DICOM medical imaging files to model CT/PET/SPECT scans
