@@ -72,8 +72,12 @@ This is by no means an exhaustive list.  PHITS can model nearly any scenario one
 
 If you have any inquiries, please drop me a line at [consulting@hratliff.com](mailto:consulting@hratliff.com), and we can explore how I may be able to help with any radiation-related challenges you may face.
 
+
 <!--
-Add small statement/disclaimer about being a sole proprietorship registered in Norway.
+Add small statement/disclaimer about being a sole proprietorship registered in Norway:
+
+----
+_**H. Ratliff Consulting** is a sole proprietorship registered in The Norwegian [Central Coordinating Register for Legal Entities (Brønnøysundregistrenes Enhetsregisteret)]() and [Register of Business Enterprises (Foretaksregisteret)]()._
 -->
 
 <!--
