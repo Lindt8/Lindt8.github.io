@@ -1,4 +1,5 @@
 ---
+name: ""
 title: "H. Ratliff Consulting"
 header-img: "images/default-site-banner-image_v1.png"
 permalink: /consulting/
@@ -40,11 +41,11 @@ layout: archive
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 <header>
+<div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
   <!-- test to remove header -->
 </header>
-<div style="text-align: center;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
+<div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
 
-<br />
 
 
 ### Nuclear engineer & Expert radiation transport and nuclear activation modeler
