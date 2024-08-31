@@ -1,5 +1,4 @@
 ---
-name: ""
 title: "H. Ratliff Consulting"
 header-img: "images/default-site-banner-image_v1.png"
 permalink: /consulting/
@@ -41,7 +40,16 @@ layout: archive
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 <header>
-<div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
+<style>
+.page__title {
+  font-size: $type-size-2;
+  display: none;
+
+  @include breakpoint($small) {
+    font-size: $type-size-1;
+  }
+}
+</style>
   <!-- test to remove header -->
 </header>
 <div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
