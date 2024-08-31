@@ -50,7 +50,8 @@ layout: archive
   }
 }
 </style>
-<div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
+<img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;" align="left">
+
 <h3>Nuclear engineer & Expert radiation transport and nuclear activation modeler</h3>
 </header>
 <!--
