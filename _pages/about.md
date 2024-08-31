@@ -10,9 +10,9 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, and am presently a postdoctoral fellow/researcher at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet) with the EU-funded [NOVO project](https://www.novo-project.eu/).
+I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, and am presently a researcher at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet) with the EU-funded [NOVO project](https://www.novo-project.eu/).
 
-At HVL I am working on the development, modeling, analysis, and deployment of a prototype radiation detector that seeks to more precisely determine dose depositions delivered in proton radiotherapy treatments to then allow for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.
+At HVL I have worked on the development, modeling, analysis, and deployment of a prototype radiation detector that seeks to more precisely determine dose depositions delivered in proton radiotherapy treatments to then allow for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.
 
 Professional interests
 ======
@@ -54,6 +54,7 @@ While in grad school, I worked on numerous space radiation modeling projects in 
 
 Events and recent news
 ======
+* 2021/08/30 - Ended work as a postdoctoral fellow at the Western Norway University of Applied Sciences
 * 2021/08/30 - Began work as a postdoctoral fellow at the Western Norway University of Applied Sciences
 * 2021/08/15 - Ended work as a postdoctoral fellow at the Japan Atomic Energy Agency
 * 2019/04/01 - Began work as a postdoctoral fellow at the Japan Atomic Energy Agency
