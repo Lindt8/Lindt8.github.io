@@ -52,11 +52,13 @@ At the end of my undergraduate experience, I learned of the numerous space-relat
 While in grad school, I worked on numerous space radiation modeling projects in addition to my PhD project which was itself a NASA-funded project related to space radiation shielding.  While my passion for space radiation remains, my interests over time expanded to more varied applications of my nuclear engineering skillset (particularly with radiation transport codes) and programming, leading to my previous position working as a developer of the PHITS code and current position working on detector development in the context of medical physics.
 
 
-Events and recent news
+Events and career timeline
 ======
-* 2021/08/30 - Ended work as a postdoctoral fellow at the Western Norway University of Applied Sciences
+* 2024/08/30 - Ended work as a postdoctoral fellow at the Western Norway University of Applied Sciences
 * 2021/08/30 - Began work as a postdoctoral fellow at the Western Norway University of Applied Sciences
 * 2021/08/15 - Ended work as a postdoctoral fellow at the Japan Atomic Energy Agency
 * 2019/04/01 - Began work as a postdoctoral fellow at the Japan Atomic Energy Agency
 * 2018/12/15 - Graduated with a PhD in nuclear engineering from the University of Tennessee, Knoxville.
-* 2018/07/07 - This site was created.
+* 2018/07/07 - This website was created.
+* 2015/12/08 - Graduated with a MS in nuclear engineering from the University of Tennessee, Knoxville.
+* 2015/05/07 - Graduated with a BS in nuclear engineering from the University of Tennessee, Knoxville.
