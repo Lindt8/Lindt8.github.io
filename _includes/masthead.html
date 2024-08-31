@@ -16,6 +16,9 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        {% if site.minimal_mistakes_skin2 %}
+          <li><i class="fas fa-fw fa-adjust dark_mode_btn" aria-hidden="true" onclick="dark_mode_btn_click()"></i></li>
+        {% endif %}
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
