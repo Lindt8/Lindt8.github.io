@@ -34,10 +34,19 @@ layout: archive
 2024 &ensp;(<font color="#00aeba">HVL</font>)
 
 &mdash;
+
 -->
 
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
+<header>
+  <!-- test to remove header -->
+</header>
+<div style="text-align: center;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
+
+<br />
+
+
 ### Nuclear engineer & Expert radiation transport and nuclear activation modeler
 
 
