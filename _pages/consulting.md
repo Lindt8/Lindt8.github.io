@@ -54,10 +54,9 @@ layout: archive
 </header>
 <div style="text-align: left;"><img src="/files/HRatliffConsulting_banner_purple-text.svg" style="width:80%;"></div>
 
-
-
 ### Nuclear engineer & Expert radiation transport and nuclear activation modeler
 
+----
 
 ## Do you have any radiation-related challenges or questions you would like explored in simulation before committing to work on the ground?
 
