@@ -5,10 +5,12 @@ header-img: "images/default-site-banner-image_v1.png"
 permalink: /publications/
 author_profile: true
 ---
-
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+-->
+You can also find my articles on [<font color="#90ba6e">my Google Scholar profile</font>](https://scholar.google.com/citations?user=PypR0lIAAAAJ&hl=en).
 
 {% include base_path %}
 
@@ -22,6 +24,11 @@ author_profile: true
 
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
+
+* "[__Image Reconstruction for Proton Therapy Range Verification via U-NETs__](https://doi.org/10.1088/1748-0221/19/07/P07002)," L.M. Setterdahl, W.R.B. Lionheart, S. Holman, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, D. Lathouwers, and I. Meric, Annual Conference on Medical Image Understanding and Analysis (MIUA 2024), 232-244, Cham: Springer Nature Switzerland, July 2024.
+   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hvlopen.brage.unit.no/hvlopen-xmlui/bitstream/handle/11250/3147557/MIUA2024_camera_ready_paper.pdf?sequence=1) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+
+
 
 * "[__The Backscatter Gating method for time, energy, and position resolution characterization of long form factor organic scintillators__](https://doi.org/10.1088/1748-0221/19/07/P07002)," <u>H.N. Ratliff</u>, T. Kögler, G. Pausch, L.M. Setterdahl, K. Skjerdal, J. Turko, and I. Meric, Journal of Instrumentation, 19, P07002, July 2024.
    * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/BSG_method_development_Accepted-Manuscript.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
