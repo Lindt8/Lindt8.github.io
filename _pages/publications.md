@@ -10,7 +10,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 -->
-You can also find my articles on [<font color="#90ba6e">my Google Scholar profile</font>](https://scholar.google.com/citations?user=PypR0lIAAAAJ&hl=en).
+You can also find my articles on [<font color="#709E4A">my Google Scholar profile</font>](https://scholar.google.com/citations?user=PypR0lIAAAAJ&hl=en).
 
 {% include base_path %}
 
@@ -26,20 +26,20 @@ You can also find my articles on [<font color="#90ba6e">my Google Scholar profil
 ------
 
 * "[__Image Reconstruction for Proton Therapy Range Verification via U-NETs__](https://doi.org/10.1007/978-3-031-66955-2_16)," L.M. Setterdahl, W.R.B. Lionheart, S. Holman, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, D. Lathouwers, and I. Meric, Annual Conference on Medical Image Understanding and Analysis (MIUA 2024), 232-244, Cham: Springer Nature Switzerland, July 2024.
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hdl.handle.net/11250/3147557) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hdl.handle.net/11250/3147557) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
 
 * "[__The Backscatter Gating method for time, energy, and position resolution characterization of long form factor organic scintillators__](https://doi.org/10.1088/1748-0221/19/07/P07002)," <u>H.N. Ratliff</u>, T. Kögler, G. Pausch, L.M. Setterdahl, K. Skjerdal, J. Turko, and I. Meric, Journal of Instrumentation, 19, P07002, July 2024.
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/BSG_method_development_Accepted-Manuscript.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/BSG_method_development_Accepted-Manuscript.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
 * "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__](https://doi.org/10.1088/1748-0221/19/01/P01008)," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler on behalf of the NOVO collaboration, Journal of Instrumentation, 19, P01008, January 2024.
-  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01008) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
+  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://iopscience.iop.org/article/10.1088/1748-0221/19/01/P01008) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
 
 * "[__Recent improvements of the Particle and Heavy Ion Transport code System – PHITS version 3.33__](https://doi.org/10.1080/00223131.2023.2275736)," T. Sato, Y. Iwamoto, S. Hashimoto, T. Ogawa, T. Furuta, S. Abe, T. Kai, Y. Matsuya, N. Matsuda, Y. Hirata, T. Sekikawa, L. Yao, P. Tsai, <u>H.N. Ratliff</u>, H. Iwase, Y. Sakaki, K. Sugihara, N. Shigyo, L. Sihver, and K. Niita, Journal of Nuclear Science and Technology, 61:1, 127-135, January 2024.
-  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://www.tandfonline.com/doi/full/10.1080/00223131.2023.2275736) <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://www.tandfonline.com/doi/full/10.1080/00223131.2023.2275736) <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
 
 
 2023 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
@@ -54,16 +54,16 @@ You can also find my articles on [<font color="#90ba6e">my Google Scholar profil
 
 
 * "[__Development of scalable deconvolution methods for determining secondary target neutron yields from dual-thick-target cosmic-ray ion accelerator experiments__](https://doi.org/10.1016/j.nimb.2023.165121)," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 544, 165121, November 2023. (__<font color="#C1751F">UTK</font>__)
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/NSRL_Back_target_neutron_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/NSRL_Back_target_neutron_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
 
 
 * "[__Double-differential primary target neutron yields from dual-thick-target proton and heavy ion accelerator experiments__](https://doi.org/10.1016/j.nimb.2023.06.001)," <u>H.N. Ratliff</u>, N.A. McGirl, M.R. Beach, L.A. Castellanos, M.S. Clowdsley, L.H. Heilbronn, C. La Tessa, J.W. Norbury, A. Rusek, M. Sivertz, A.P. Srikrishna, H. Wang, and C. Zeitlin, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 542, 87-94, September 2023. (__<font color="#C1751F">UTK</font>__)
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/NSRL_Front_target_neutron_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/NSRL_Front_target_neutron_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
 
 
 
 * "[__A hybrid multi-particle approach to range assessment-based treatment verification in particle therapy__](https://doi.org/10.1038/s41598-023-33777-w)," I. Meric, E. Alagoz, L.B. Hysing, T. Kögler, D. Lathouwers, W.R.B. Lionheart, J. Mattingly, J. Obhodas, G. Pausch, H.E.S. Pettersen, <u>H.N. Ratliff</u>, M. Rovituso, S.M. Schellhammer, L.M. Setterdah, K. Skjerdal, E. Sterpin, D. Sudac, J.A. Turko, and K.S. Ytre-Hauge, Scientific Reports, 13, 6709, April 2023.
-  * [<font color="#90ba6e">[Direct link to Open Access Article]</font>](https://www.nature.com/articles/s41598-023-33777-w) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
+  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://www.nature.com/articles/s41598-023-33777-w) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
 
 <!--
@@ -76,7 +76,7 @@ You can also find my articles on [<font color="#90ba6e">my Google Scholar profil
 2020 &ensp;(<font color="#407ff5">JAEA</font>)
 ------
 * "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__](https://doi.org/10.1016/j.nimb.2020.10.005)," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 484, 29-41, December 2020.  <!-- (__<font color="#1F2CCA">JAEA</font>__) -->
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------

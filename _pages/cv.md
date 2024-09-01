@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<font color="#90ba6e">[Direct link to PDF of my CV]</font>](https://hratliff.com/files/CV_Hunter_Ratliff_public.pdf)
+[<font color="#709E4A">[Direct link to PDF of my CV]</font>](https://hratliff.com/files/CV_Hunter_Ratliff_public.pdf)
 
 <iframe src="/files/CV_Hunter_Ratliff_public.pdf" style="width: 100%;height: 800px;border: none;"></iframe>
 
