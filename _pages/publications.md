@@ -25,8 +25,8 @@ You can also find my articles on [<font color="#90ba6e">my Google Scholar profil
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
-* "[__Image Reconstruction for Proton Therapy Range Verification via U-NETs__](https://doi.org/10.1088/1748-0221/19/07/P07002)," L.M. Setterdahl, W.R.B. Lionheart, S. Holman, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, D. Lathouwers, and I. Meric, Annual Conference on Medical Image Understanding and Analysis (MIUA 2024), 232-244, Cham: Springer Nature Switzerland, July 2024.
-   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hvlopen.brage.unit.no/hvlopen-xmlui/bitstream/handle/11250/3147557/MIUA2024_camera_ready_paper.pdf?sequence=1) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+* "[__Image Reconstruction for Proton Therapy Range Verification via U-NETs__](https://doi.org/10.1007/978-3-031-66955-2_16)," L.M. Setterdahl, W.R.B. Lionheart, S. Holman, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, D. Lathouwers, and I. Meric, Annual Conference on Medical Image Understanding and Analysis (MIUA 2024), 232-244, Cham: Springer Nature Switzerland, July 2024.
+   * [<font color="#90ba6e">[Direct link to Accepted Manuscript]</font>](https://hdl.handle.net/11250/3147557) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
 
