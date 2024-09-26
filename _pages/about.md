@@ -54,10 +54,11 @@ While in grad school, I worked on numerous space radiation modeling projects in 
 
 Events and career timeline
 ======
-* 2024/08/30 - Ended work as a postdoctoral fellow at the Western Norway University of Applied Sciences
-* 2021/08/30 - Began work as a postdoctoral fellow at the Western Norway University of Applied Sciences
-* 2021/08/15 - Ended work as a postdoctoral fellow at the Japan Atomic Energy Agency
-* 2019/04/01 - Began work as a postdoctoral fellow at the Japan Atomic Energy Agency
+* 2024/10/07 - Began work as a Researcher in Proton Therapy at the Western Norway University of Applied Sciences
+* 2024/08/30 - Ended work as a Postdoctoral Fellow at the Western Norway University of Applied Sciences
+* 2021/08/30 - Began work as a Postdoctoral Fellow at the Western Norway University of Applied Sciences
+* 2021/08/15 - Ended work as a Postdoctoral Fellow at the Japan Atomic Energy Agency
+* 2019/04/01 - Began work as a Postdoctoral Fellow at the Japan Atomic Energy Agency
 * 2018/12/15 - Graduated with a PhD in nuclear engineering from the University of Tennessee, Knoxville.
 * 2018/07/07 - This website was created.
 * 2015/12/08 - Graduated with a MS in nuclear engineering from the University of Tennessee, Knoxville.
