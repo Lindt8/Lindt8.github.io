@@ -24,7 +24,7 @@ This is a simple Python module containing a collection of functions that I have 
 [<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools)
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
-This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  <!--(*under ongoing development*)-->
+This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  <!--(*under ongoing development*)-->
 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
 
@@ -32,7 +32,7 @@ This is a simple Python module containing a collection of functions which serve 
 [<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools)
 ======
 ### PHITS output parser/processor and toolkit
-This is a simple Python module containing a collection of functions which serve to automatically process tally output from the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files. (*under ongoing development*)
+This is a simple Python module containing a collection of functions which serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files. (*under ongoing development*)
 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
 
@@ -46,12 +46,12 @@ This is a Jupyter notebook for conveniently viewing and comparing the data colle
 [<u>GCR-SpecGen</u>](https://github.com/Lindt8/GCR_SpecGen) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2573359.svg)](https://doi.org/10.5281/zenodo.2573359)
 ======
 ### Galactic Cosmic Ray Spectra Generator
-This is a Jupyter notebook for conveniently generating GCR spectra using the [GCR model developed by Dr. Daniel Matthiä](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
+This is a Jupyter notebook for conveniently generating GCR spectra using the [<font color="#709E4A">GCR model developed by Dr. Daniel Matthiä</font>](https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub).  The notebook allows for selection of which source ions are of interest and the desired level of solar modulation, either set manually or calculated automatically from a date or range of dates.  It yields a brief summary of the GCR spectra, text files containing each ion's full spectrum (formatted in a "raw" tabular form and as source cards ready for use in MCNP and PHITS simulations), and a plot showing the selected spectra under the specified level of solar modulation.
 
 [<u>CLSQ2</u>](https://github.com/Lindt8/CLSQ2)
 ======
 ### Cumming’s Least Squares (version 2)
-This is a modernized version of the 1962 Cumming’s Least Squares (CLSQ) Brookhaven Decay Curve Analysis Program, written in FORTRAN IV.  The original paper on it can be read [<u>here</u>](https://books.google.com/books?id=DZQrAAAAYAAJ&lpg=PR1&pg=PA25#v=onepage&q&f=false). CLSQ analyzes multicomponent decay curves by a least-squares procedure to iteratively identify the half-lives and abundances of the individual isotopes of a measured sample.  Its use at Oak Ridge National Laboratory (ORNL) had been limited to a few very old computers due to its age and recompilation issues; only a 16-bit compiled version of the code was in use at ORNL.  To make this code more accessible, I translated the original code from FORTRAN IV into Python 3.  Additionally, I added improvements in the input and output functionalities of CLSQ, making it much more user-friendly.  The new CLSQ code is used today at ORNL and is featured in a graduate course on isotope production at the University of Tennessee.  
+This is a modernized version of the 1962 Cumming’s Least Squares (CLSQ) Brookhaven Decay Curve Analysis Program, written in FORTRAN IV.  The original paper on it can be read [<font color="#709E4A"><u>here</u></font>](https://books.google.com/books?id=DZQrAAAAYAAJ&lpg=PR1&pg=PA25#v=onepage&q&f=false). CLSQ analyzes multicomponent decay curves by a least-squares procedure to iteratively identify the half-lives and abundances of the individual isotopes of a measured sample.  Its use at Oak Ridge National Laboratory (ORNL) had been limited to a few very old computers due to its age and recompilation issues; only a 16-bit compiled version of the code was in use at ORNL.  To make this code more accessible, I translated the original code from FORTRAN IV into Python 3.  Additionally, I added improvements in the input and output functionalities of CLSQ, making it much more user-friendly.  The new CLSQ code is used today at ORNL and is featured in a graduate course on isotope production at the University of Tennessee.  
 
 
 
