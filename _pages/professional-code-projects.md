@@ -29,6 +29,13 @@ This is a simple Python module containing a collection of functions which serve 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
 
 
+[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools)
+======
+### PHITS output parser/processor and toolkit
+This is a simple Python module containing a collection of functions which serve to automatically process tally output from the [PHITS](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files. (*under ongoing development*)
+
+[<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
+
 
 [<u>SHAEDIT</u>](https://github.com/Lindt8/SHAEDIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1287860.svg)](https://doi.org/10.5281/zenodo.1287860)
 ======
