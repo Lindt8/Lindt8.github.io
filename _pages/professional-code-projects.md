@@ -21,20 +21,20 @@ This is a simple Python module containing a collection of functions that I have 
 [<font color="#709E4A">[Documentation]</font>](http://lindt8.github.io/Hunters-tools/)
 
 
+[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools)
+======
+### PHITS output parser/processor and toolkit
+This is a simple Python module containing a collection of functions which serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files.  The module's main function outputs results both as a "dense" NumPy array as well as in a Pandas DataFrame, along with a metadata dictionary. (*under ongoing development*)
+
+[<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
+
+
 [<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools)
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
 This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  <!--(*under ongoing development*)-->
 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
-
-
-[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools)
-======
-### PHITS output parser/processor and toolkit
-This is a simple Python module containing a collection of functions which serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files. (*under ongoing development*)
-
-[<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
 
 
 [<u>SHAEDIT</u>](https://github.com/Lindt8/SHAEDIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1287860.svg)](https://doi.org/10.5281/zenodo.1287860)
