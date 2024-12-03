@@ -13,7 +13,7 @@ redirect_from:
 I have worked on a number of professional coding projects (or relevant personal side projects).  Links to their respective web/GitHub pages and brief descriptions are provided here.
 
 
-[<u>Hunter's tools</u>](https://github.com/Lindt8/Hunters-tools)
+[<u>Hunter's tools</u>](https://github.com/Lindt8/Hunters-tools) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14266969.svg)](https://doi.org/10.5281/zenodo.14266969)
 ======
 ### Collection of my general-purpose Python functions
 This is a simple Python module containing a collection of functions that I have written and curated over the years spanning a large variety of purposes.  Broadly, the functions fit into three categories: general use (somewhat of a catchall), science and engineering (nuclear in particular), and visualization and plotting.
@@ -29,7 +29,7 @@ This is a Python module containing a collection of functions that serve to autom
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
 
 
-[<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools)
+[<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14267236.svg)](https://doi.org/10.5281/zenodo.14267236)
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
 This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  <!--(*under ongoing development*)-->
