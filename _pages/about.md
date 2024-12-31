@@ -37,7 +37,7 @@ I enjoy watching "edutainment" documentaries and videos on YouTube covering a wi
 
 Mixology, explored responsibly, has also become a hobby of mine.  Many mixed drinks and cocktails and their ingredients have fascinating histories.  I find it intriguing how most drinks consist of ingredients collected from multiple countries (and often continents).  Exploring recipes and optimizing them to my own tastes has been very satisfying and rewarding.
 
-
+At quite an amateur level, I very much enjoy photography too.  I do not (yet) have any fancy camera, but just the act of spotting, framing, and then taking a nice shot is really satisfying and rewarding.  I have on display some of my favorite pictures on my [photography page](https://hratliff.com/photo-gallery.html).  Many were taken in my daily life, but I love [travel](https://hratliff.com/travel/) and have included lots of travel pictures too.
 
 I also enjoy coding as a hobby when it can be used to make something easier.  The fun projects I have made public can be seen in the [Hobby Projects](https://hratliff.com/hobby-code-projects/) page of this website.  As an example, since I like to collect desktop backgrounds and am using a 16:9 aspect ratio monitor, I wrote a Python script which allows for me to easily convert a desktop background of any aspect ratio to 16:9.  I have also made several other small things such as a custom HTML/CSS web browser new tab page and Windows batch scripts to automatically create backups of my data.  Composing this website also plays into this hobby of mine.  The professionally relevant Jupyter notebooks I have written also began as fun passion projects.
 
