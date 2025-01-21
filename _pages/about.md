@@ -12,7 +12,7 @@ redirect_from:
 
 I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, and am presently a researcher at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet) with the EU-funded [NOVO project](https://www.novo-project.eu/).
 
-At HVL I have worked on the development, modeling, and analysis of a prototype radiation detector system seeking to help more precisely determine dose depositions delivered in proton radiotherapy treatments, allowing for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.  My PhD work at UTK involved modeling and experimentally measuring neutron production in space radiation environments on a NASA project.
+At HVL I have worked on the development, modeling, and analysis of a prototype radiation detector system seeking to help more precisely determine dose depositions delivered in proton radiotherapy treatments, allowing for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.  My PhD work at UTK involved modeling and experimentally measuring neutron production in space radiation environments as part of a NASA project investigating radiation shielding in space.
 
 Professional interests
 ======
