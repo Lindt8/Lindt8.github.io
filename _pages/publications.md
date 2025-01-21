@@ -20,7 +20,12 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
+2025 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+------
 
+* "[__PHITS & DCHAIN Tools: Python modules for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes__](https://github.com/Lindt8/PHITS-Tools/)," <u>H.N. Ratliff</u>, Journal of Open Source Software. [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70)
+   * [<font color="#709E4A">[Direct link to PHITS Tools GitHub repository]</font>](https://github.com/Lindt8/PHITS-Tools/)
+   * [<font color="#709E4A">[Direct link to Submitted Manuscript]</font>](https://github.com/Lindt8/PHITS-Tools/blob/main/paper.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a> -->
 
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
