@@ -11,8 +11,7 @@ Below is a "passport" exported from the excellent iOS app [<font color="#709E4A"
 
 
 <div style="text-align: left;"><img src="/files/2025-02-04_Flighty-passport-dark.png" style="width:100%; max-width:650px"></div>
-
-
+<br>
 <iframe src="/travelmap/talkmap/map.html" width="100%" height="700" style="border:none;"></iframe>
 
 <!-- iframe was originally width="850" height="700"  -->
