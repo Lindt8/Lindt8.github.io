@@ -7,7 +7,7 @@ permalink: /travel/
 
 {% include base_path %}
 
-Below is a "passport" exported from the excellent iOS app <font color="#709E4A">[Flighty](https://flighty.com/)</font> summarizing all the flights I have taken as an adult, from 2015 onward.  Beneath that is an interactive map showing most of the places that I have traveled to for work and for fun!  
+Below is a "passport" exported from the excellent iOS app [<font color="#709E4A">Flighty</font>](https://flighty.com/) summarizing all the flights I have taken as an adult, from 2015 onward.  Beneath that is an interactive map showing most of the places that I have traveled to for work and for fun!  
 
 
 <div style="text-align: left;"><img src="/files/2025-02-04_Flighty-passport-dark.png" style="width:80%;"></div>
