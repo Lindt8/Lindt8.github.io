@@ -2,7 +2,6 @@
 permalink: /
 title: "About me"
 subtitle: "Hunter Ratliff - About me"
-excerpt: "About me"
 header-img: "images/default-site-banner-image_v4.png"
 author_profile: true
 redirect_from:
@@ -63,3 +62,8 @@ Events and career timeline
 * 2018/07/07 - This website was created.
 * 2015/12/08 - Graduated with a MS in nuclear engineering from the University of Tennessee, Knoxville.
 * 2015/05/07 - Graduated with a BS in nuclear engineering from the University of Tennessee, Knoxville.
+
+
+<!--
+excerpt: "About me"
+-->
