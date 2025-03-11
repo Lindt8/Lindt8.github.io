@@ -22,6 +22,27 @@ redirect_from:
         }
 </style>
 
+2025 &ensp;(<font color="##00aeba">HVL</font>)
+------
+
+| Title    | Modeling a list-mode multi-coincidence detection system for neutron and gamma-ray imaging in PHITS - And other applications of PHITS in The NOVO Project     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [PHITS Workshop 2025](https://phits.jaea.go.jp/workshop2025.html)                                              |
+| Host     | Japan Atomic Energy Agency (JAEA)                                                         |
+| Location | JAEA Mirai Base, Tokai-mura, Ibaraki-ken, Japan                                                                         |
+| Date     | 18 February 2025                                                                                          |
+{: .tablelines}
+
+
+| Title    | Features and applications of the DCHAIN-PHITS activation code     |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | [PHITS Workshop 2025](https://phits.jaea.go.jp/workshop2025.html)                                              |
+| Host     | Japan Atomic Energy Agency (JAEA)                                                         |
+| Location | JAEA Mirai Base, Tokai-mura, Ibaraki-ken, Japan                                                                         |
+| Date     | 18 February 2025                                                                                          |
+{: .tablelines}
+
+
 2024 &ensp;(<font color="##00aeba">HVL</font>)
 ------
 
