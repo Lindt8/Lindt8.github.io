@@ -27,6 +27,10 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
    * [<font color="#709E4A">[Direct link to PHITS Tools GitHub repository]</font>](https://github.com/Lindt8/PHITS-Tools/)
    * [<font color="#709E4A">[Direct link to Submitted Manuscript]</font>](https://github.com/Lindt8/PHITS-Tools/blob/main/paper.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a> -->
 
+
+* "[__Evaluating impact of detector arrangement and position resolution effect on a fast neutron-based range verification system for proton therapy__](https://doi.org/10.1016/j.radphyschem.2025.112793)," L.M. Setterdahl, W.R.B. Lionheart, D. Lathouwers, <u>H.N. Ratliff</u>, K. Skjerdal, and I. Meric, Radiation Physics and Chemistry, 112793, April 2025.
+  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://www.sciencedirect.com/science/article/pii/S0969806X25002853) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
