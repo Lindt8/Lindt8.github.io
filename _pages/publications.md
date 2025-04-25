@@ -118,7 +118,7 @@ Next to each year is my primary affiliation at that time; for any publications w
 
 ### Miscellaneous
 
-* My [<font color="#709E4A">**Erdős number**</font>](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 5: I have coauthored with
+* My **[<font color="#709E4A">Erdős number</font>](https://en.wikipedia.org/wiki/Erd%C5%91s_number)** is 5: I have coauthored with
 [<font color="#709E4A">William R. B. Lionheart</font>](https://doi.org/10.1016/j.radphyschem.2025.112793), who has coauthored with
 [<font color="#709E4A">Vladimir A. Sharafutdinov</font>](https://doi.org/10.1090/conm/494), who has coauthored with
 [<font color="#709E4A">Jan Boman</font>](https://doi.org/10.3934/ipi.2018052), who has coauthored with
