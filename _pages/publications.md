@@ -115,3 +115,13 @@ Technical Notes
 * __<font color="#00aeba">HVL</font>__ : Western Norway University of Applied Sciences (Høgskulen på Vestlandet)
 
 Next to each year is my primary affiliation at that time; for any publications where my primary affiliation differed from that of my employment, the main affiliation associated with the work is noted at the end of the entry.
+
+### Miscellaneous
+
+#### Erdős number
+My [<font color="#709E4A">Erdős number</font>](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 5: I have coauthored with
+[<font color="#709E4A">William R. B. Lionheart</font>](https://doi.org/10.1016/j.radphyschem.2025.112793), who has coauthored with
+[<font color="#709E4A">Vladimir A. Sharafutdinov</font>](https://doi.org/10.1090/conm/494), who has coauthored with
+[<font color="#709E4A">Jan Boman</font>](https://doi.org/10.3934/ipi.2018052), who has coauthored with
+[<font color="#709E4A">Svante Janson</font>](https://doi.org/10.1007/BF02844849), who has coauthored with
+[<font color="#709E4A">Paul Erdős</font>](https://doi.org/10.1007/978-1-4612-0719-1_8).
