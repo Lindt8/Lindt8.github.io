@@ -84,6 +84,18 @@ redirect_from:
 {: .tablelines}
 
 
+2023 &ensp;(<font color="##00aeba">HVL</font>)
+------
+
+| Title    | Backscatter Gating methodology development for scintillator bar characterization    |
+| -------- | -------------------------------------------------------------------------------------------------------- |
+| Event    | 2023 PhD Candidate Seminar session                                                         |
+| Host     | Western Norway University of Applied Sciences (Høgskulen på Vestlandet)                                                          |
+| Location | Voss, Norway                                                                                            |
+| Date     | 9 May 2023                                                                                         |
+{: .tablelines}
+
+
 2022 &ensp;(<font color="##00aeba">HVL</font>)
 ------
 <!--
