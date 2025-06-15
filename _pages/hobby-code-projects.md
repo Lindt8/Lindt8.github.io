@@ -11,6 +11,13 @@ redirect_from:
 
 I have worked on a handful of little projects of my own to improve my own computer and/or internet experience or just for fun.  Links to their respective GitHub pages and brief descriptions are provided here.
 
+
+[<u>Schengen schedule calculator</u>](https://hratliff.com/posts/schengen-schedule-calculator/)
+======
+This is a spreadsheet tool that can be used for planning trips to the Schengen Area while obeying its requirement (for noncitizens/nonresidents) to never exceed 90 days spent in Schengen in *any* 180-day rolling window.  Such a simply described rule results in some rather complicated possible scheduling headaches, and this spreadsheet provides an accessible solution to designing travel plans adherent to the requirement along with providing insight on how planned stays affect potential future visits to the Schengen Area too.
+
+
+
 [<u>Interactive world data map generator</u>](https://github.com/Lindt8/Interactive_world_data_map)
 ======
 This is an easy-to-use Python tool for making custom interactive Scalable Vector Graphics (SVG) world maps showing binned data, such as the example below showing the number of [<font color="#709E4A">Olympic medals won</font>](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table) by each country.  It has a comprehensive GUI, supports data from Excel, CSV, and TSV files, and saves the GUI settings and file data for quick and easy iteration and future usage.  It is discussed at length in [<font color="#709E4A">this article</font>](https://hratliff.com/posts/interactive-world-data-map-tool/).
@@ -19,11 +26,6 @@ This is an easy-to-use Python tool for making custom interactive Scalable Vector
 <div class="fluid-width-video-wrapper" style="padding-top: 67%; text-align: center; width: 85%;"><embed src="/files/Olympic_medals_per_country.svg" type=""></div>
 
 <p></p>
-
-
-[<u>Schengen schedule calculator</u>](https://hratliff.com/posts/schengen-schedule-calculator/)
-======
-This is a spreadsheet tool that can be used for planning trips to the Schengen Area while obeying its requirement (for noncitizens/nonresidents) to never exceed 90 days spent in Schengen in *any* 180-day rolling window.  Such a simply described rule results in some rather complicated possible scheduling headaches, and this spreadsheet provides an accessible solution to designing travel plans adherent to the requirement along with providing insight on how planned stays affect potential future visits to the Schengen Area too.
 
 
 

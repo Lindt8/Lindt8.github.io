@@ -13,20 +13,22 @@ redirect_from:
 I have worked on a number of professional coding projects (or relevant personal side projects).  Links to their respective web/GitHub pages and brief descriptions are provided here.
 
 
+
+
+[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262720.svg)](https://doi.org/10.5281/zenodo.14262720)
+======
+### PHITS universal output parser/processor
+This is a Python module containing a collection of functions that serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files.  PHITS Tools can be interfaced with via its command line interface (CLI), graphical user interface (GUI), or as an imported module within a Python script.  The module's main function outputs results both as a "dense" NumPy array as well as in a Pandas DataFrame, along with a metadata dictionary, while dump file results are returned as a list of NamedTuples and/or a Pandas DataFrame; all output can be saved as [pickle](https://docs.python.org/3/library/pickle.html) files for easy later use. 
+
+[<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
+
+
 [<u>Hunter's tools</u>](https://github.com/Lindt8/Hunters-tools) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14266969.svg)](https://doi.org/10.5281/zenodo.14266969)
 ======
 ### Collection of my general-purpose Python functions
 This is a simple Python module containing a collection of functions that I have written and curated over the years spanning a large variety of purposes.  Broadly, the functions fit into three categories: general use (somewhat of a catchall), science and engineering (nuclear in particular), and visualization and plotting.
 
 [<font color="#709E4A">[Documentation]</font>](http://lindt8.github.io/Hunters-tools/)
-
-
-[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262720.svg)](https://doi.org/10.5281/zenodo.14262720)
-======
-### PHITS universal output parser/processor
-This is a Python module containing a collection of functions that serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a (nearly) universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files.  PHITS Tools can be interfaced with via its command line interface (CLI), graphical user interface (GUI), or as an imported module within a Python script.  The module's main function outputs results both as a "dense" NumPy array as well as in a Pandas DataFrame, along with a metadata dictionary, while dump file results are returned as a list of NamedTuples and/or a Pandas DataFrame; all output can be saved as [pickle](https://docs.python.org/3/library/pickle.html) files for easy later use. (*under ongoing development*)
-
-[<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
 
 
 [<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14267236.svg)](https://doi.org/10.5281/zenodo.14267236)
