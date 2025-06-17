@@ -28,7 +28,7 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
    * [<font color="#709E4A">[Direct link to Submitted Manuscript]</font>](https://github.com/Lindt8/PHITS-Tools/blob/main/paper.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a> -->
 
 
-* "[__Enhancing Image Quality in Fast Neutron-Based Range Verification of Proton Therapy Using a Deep Learning-Based Prior in LM-MAP-EM Reconstruction__](https://doi.org/10.1088/1361-6560/ade198)," L.M. Setterdahl, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, W.R.B. Lionheart, S. Holman, H.E.S. Pettersen, F. Blangiardi, D. Lathouwers, and I. Meric, Physics in Medicine and Biology, June 2025. (*accepted, in press*)
+* "[__Enhancing Image Quality in Fast Neutron-Based Range Verification of Proton Therapy Using a Deep Learning-Based Prior in LM-MAP-EM Reconstruction__](https://doi.org/10.1088/1361-6560/ade198)," L.M. Setterdahl, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, W.R.B. Lionheart, S. Holman, H.E.S. Pettersen, F. Blangiardi, D. Lathouwers, and I. Meric, Physics in Medicine and Biology, 70, 125011, June 2025. 
      <!--* [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>]()--> <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
