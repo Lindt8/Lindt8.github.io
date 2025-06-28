@@ -12,15 +12,8 @@ redirect_from:
 
 [<font color="#709E4A">[Direct link to PDF of my CV]</font>](https://hratliff.com/files/CV_Hunter_Ratliff_public.pdf)
 
-<div class="desktop-image">
+
 <iframe src="/files/CV_Hunter_Ratliff_public.pdf#pagemode=none&navpanes=0" style="width: 100%;height: 800px;border: none;"></iframe>
-</div>
-
-<div class="mobile-image">
-<iframe src="https://docs.google.com/viewer?embedded=true&url=raw.githubusercontent.com/Lindt8/Lindt8.github.io/refs/heads/master/files/CV_Hunter_Ratliff_public.pdf#pagemode=none&navpanes=0" style="width: 100%;height: 800px;border: none;"></iframe>
-</div>
-
-
 
 
 <!--
