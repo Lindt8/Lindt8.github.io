@@ -79,7 +79,7 @@ PHITS can model and I have experience simulating scenarios including (but not li
 - **Neutron time-of-flight** measurements with various timing schemes
 - **Gamma-ray transmission** for determining material thickness/density
 - **Materials activation**: time-dependent nuclide inventories (+ activity and decay heat) of a sample/structure during and after irradiation with any irradiation schedule and source type
--  **Activation dose rate distributions** (and shielding & spectrocopy) from the resulting secondary radiation field produced by activated materials
+-  **Activation dose rate distributions** (and shielding & spectroscopy) from the resulting secondary radiation field produced by activated materials
 - **High-energy ion beam** experiments and secondary particle yields
 - **Scintillator detector response** function generation
 - **Radiation therapy**, using DICOM medical imaging files to model CT/PET/SPECT scans
