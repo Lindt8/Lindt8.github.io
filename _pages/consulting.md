@@ -90,7 +90,8 @@ This is by no means an exhaustive list.  PHITS can model nearly any scenario one
 
 If you have any inquiries, please drop me a line at [consulting@hratliff.com](mailto:consulting@hratliff.com), and we can explore how I may be able to help with any radiation-related challenges you may face.
 
-#### _Services are limited to peaceful civilian applications (medical, industrial, academic). Deliverables do not include third-party software; clients must hold required licenses. Requests outside this scope will be declined._
+<sub>_Services are limited to peaceful civilian applications (medical, industrial, academic). Deliverables do not include third-party software;_</sub>  
+<sup>_clients must hold required software licenses. Requests outside this scope will be declined._</sup> 
 
 
 <!--
