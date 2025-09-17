@@ -23,12 +23,12 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 2025 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
-* "[__PHITS & DCHAIN Tools: Python modules for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes__](https://github.com/Lindt8/PHITS-Tools/)," <u>H.N. Ratliff</u>, Journal of Open Source Software. [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70)
+* "[__The PHITS Tools Python package for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes__](https://github.com/Lindt8/PHITS-Tools/)," <u>H.N. Ratliff</u>, Journal of Open Source Software. [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70)
    * [<font color="#709E4A">[Direct link to PHITS Tools GitHub repository]</font>](https://github.com/Lindt8/PHITS-Tools/)
    * [<font color="#709E4A">[Direct link to Submitted Manuscript]</font>](https://github.com/Lindt8/PHITS-Tools/blob/main/paper.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a> -->
 
 
-* "[__Enhancing Image Quality in Fast Neutron-Based Range Verification of Proton Therapy Using a Deep Learning-Based Prior in LM-MAP-EM Reconstruction__](https://doi.org/10.1088/1361-6560/ade198)," L.M. Setterdahl, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, W.R.B. Lionheart, S. Holman, H.E.S. Pettersen, F. Blangiardi, D. Lathouwers, and I. Meric, Physics in Medicine and Biology, 70, 125011, June 2025. 
+* "[__Enhancing Image Quality in Fast Neutron-Based Range Verification of Proton Therapy Using a Deep Learning-Based Prior in LM-MAP-EM Reconstruction__](https://doi.org/10.1088/1361-6560/ade198)," L.M. Setterdahl, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, W.R.B. Lionheart, S. Holman, H.E.S. Pettersen, F. Blangiardi, D. Lathouwers, and I. Meric, Physics in Medicine and Biology, 70, 125011, June 2025.
      <!--* [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>]()--> <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
@@ -105,6 +105,18 @@ D. Matthiä, D.M. Hassler, W. de Wet, B. Ehresmann, A. Firan, J. Flores-McLaughl
 Dissertation
 -----
 * "[__Thick-target neutron yields for intermediate-energy heavy ion experiments at NSRL__](https://trace.tennessee.edu/utk_graddiss/5323/)," <u>H.N. Ratliff</u>, December 2018.
+
+
+Data Publications
+-----
+* "[__Neutron imaging and light output calibration with the miniNOVO prototype at the Physikalisch-Technische Bundesanstalt (PTB) Braunschweig__](https://doi.org/10.14278/rodare.3827),"
+J. Turko, B. Lutz, I. Meric, S.T. Müller, <u>H.N. Ratliff</u>, K.E. Römer, K. Urban, and T. Kögler, Rodare, June 2025. [Data set]
+
+* "[__Data used in "The Backscatter Gating method for time, energy, and position resolution characterization of long form factor organic scintillators" by Hunter N. Ratliff et al.__](https://doi.org/10.5281/zenodo.12743229),"
+<u>H.N. Ratliff</u>, Zenodo, August 2024. [Data set]
+
+* "[__NSRL experimental neutron yields from GCR-like ions incident on dual thick targets__](http://doi.org/10.17632/myjky5f6f5.1),"
+<u>H.N. Ratliff</u>, Mendeley Data, V1, March 2023. [Data set]
 
 
 Technical Notes
