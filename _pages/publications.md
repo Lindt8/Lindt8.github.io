@@ -29,11 +29,11 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 
 
 * "[__Enhancing Image Quality in Fast Neutron-Based Range Verification of Proton Therapy Using a Deep Learning-Based Prior in LM-MAP-EM Reconstruction__](https://doi.org/10.1088/1361-6560/ade198)," L.M. Setterdahl, K. Skjerdal, <u>H.N. Ratliff</u>, K.S. Ytre-Hauge, W.R.B. Lionheart, S. Holman, H.E.S. Pettersen, F. Blangiardi, D. Lathouwers, and I. Meric, Physics in Medicine and Biology, 70, 125011, June 2025.
-     <!--* [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>]()--> <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+     * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hdl.handle.net/11250/3211716) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
 
 
 * "[__Evaluating impact of detector arrangement and position resolution effect on a fast neutron-based range verification system for proton therapy__](https://doi.org/10.1016/j.radphyschem.2025.112793)," L.M. Setterdahl, W.R.B. Lionheart, D. Lathouwers, <u>H.N. Ratliff</u>, K. Skjerdal, and I. Meric, Radiation Physics and Chemistry, 112793, April 2025.
-  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://www.sciencedirect.com/science/article/pii/S0969806X25002853) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+  * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://www.sciencedirect.com/science/article/pii/S0969806X25002853) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
 2024 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
@@ -44,7 +44,7 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 
 
 * "[__The Backscatter Gating method for time, energy, and position resolution characterization of long form factor organic scintillators__](https://doi.org/10.1088/1748-0221/19/07/P07002)," <u>H.N. Ratliff</u>, T. Kögler, G. Pausch, L.M. Setterdahl, K. Skjerdal, J. Turko, and I. Meric, Journal of Instrumentation, 19, P07002, July 2024.
-   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/BSG_method_development_Accepted-Manuscript.pdf) <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>-->
+   * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/BSG_method_development_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
 
 
 * "[__Characterization of organic glass scintillator bars and their potential for a hybrid neutron/gamma ray imaging system for proton radiotherapy range verifcation__](https://doi.org/10.1088/1748-0221/19/01/P01008)," J. Turko, R. Beyer, A.R. Junghans, I. Meric, S.E. Mueller, G. Pausch, <u>H.N. Ratliff</u>, K. Römer, S.M. Schellhammer, L.M. Setterdahl, S. Urlass, A. Wagner, and T. Kögler on behalf of the NOVO collaboration, Journal of Instrumentation, 19, P01008, January 2024.
