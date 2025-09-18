@@ -15,10 +15,10 @@ I have worked on a number of professional coding projects (or relevant personal 
 
 
 
-[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262720.svg)](https://doi.org/10.5281/zenodo.14262720)
+[<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![PyPI - Version](https://img.shields.io/pypi/v/PHITS-Tools?logo=pypi&logoColor=fff&label=PyPI)](https://pypi.org/project/PHITS-Tools/) [![Documentation](https://img.shields.io/badge/Documentation-brightgreen)](https://lindt8.github.io/PHITS-Tools/) <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262720.svg)](https://doi.org/10.5281/zenodo.14262720)-->
 ======
 ### PHITS universal output parser/processor
-This is a Python module containing a collection of functions that serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files.  PHITS Tools can be interfaced with via its command line interface (CLI), graphical user interface (GUI), or as an imported module within a Python script.  The module's main function outputs results both as a "dense" NumPy array as well as in a Pandas DataFrame, along with a metadata dictionary, while dump file results are returned as a list of NamedTuples and/or a Pandas DataFrame; all output can be saved as [pickle](https://docs.python.org/3/library/pickle.html) files for easy later use. 
+This is a Python package containing a collection of functions that serve to automatically process tally output from the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code, seeking to be a universal tally output parser/processor for both PHITS standard tally output and its tally "dump" output files.  PHITS Tools can be interfaced with via its command line interface (CLI), graphical user interface (GUI), or as an imported module within a Python script.  The module's main function outputs results both as a "dense" NumPy array as well as in a Pandas DataFrame, along with a metadata dictionary, while dump file results are returned as a list of NamedTuples and/or a Pandas DataFrame; all output can be saved as [pickle](https://docs.python.org/3/library/pickle.html) files for easy later use.
 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/PHITS-Tools/)
 
@@ -31,10 +31,14 @@ This is a simple Python module containing a collection of functions that I have 
 [<font color="#709E4A">[Documentation]</font>](http://lindt8.github.io/Hunters-tools/)
 
 
-[<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14267236.svg)](https://doi.org/10.5281/zenodo.14267236)
+[<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools) [![status](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70/status.svg)](https://joss.theoj.org/papers/ef67acccadb883867ba60dc9e018ff70) [![PyPI - Version](https://img.shields.io/pypi/v/PHITS-Tools?logo=pypi&logoColor=fff&label=PyPI)](https://pypi.org/project/PHITS-Tools/) [![Documentation](https://img.shields.io/badge/Documentation-brightgreen)](https://lindt8.github.io/DCHAIN-Tools/) <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14267236.svg)](https://doi.org/10.5281/zenodo.14267236)-->
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
-This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.  <!--(*under ongoing development*)-->
+This is a simple Python module containing a collection of functions which serve to automatically process output from the DCHAIN-PHITS code, the nuclide activation, buildup, burnup, and decay code which is coupled to and distributed with the [<font color="#709E4A">PHITS</font>](https://phits.jaea.go.jp/) general purpose Monte Carlo particle transport code.  In addition to trivializing DCHAIN output parsing and processing, it has a handful of other useful tools related to DCHAIN.
+
+While originally developed as a standalone module (and still usable as such), it is now packaged as a submodule of the PHITS Tools package, mirroring the relationship between the DCHAIN and PHITS codes.
+
+<!--(*under ongoing development*)-->
 
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
 
