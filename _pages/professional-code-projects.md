@@ -18,7 +18,9 @@ I have worked on a number of professional coding projects (or relevant personal 
 [<u>PHITS Tools</u>](https://github.com/Lindt8/PHITS-Tools) [![DOI](https://joss.theoj.org/papers/10.21105/joss.08311/status.svg)](https://doi.org/10.21105/joss.08311) [![PyPI - Version](https://img.shields.io/pypi/v/PHITS-Tools?logo=pypi&logoColor=fff&label=PyPI)](https://pypi.org/project/PHITS-Tools/) [![Documentation](https://img.shields.io/badge/Documentation-brightgreen)](https://lindt8.github.io/PHITS-Tools/) <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14262720.svg)](https://doi.org/10.5281/zenodo.14262720)-->
 ======
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Lindt8/PHITS-Tools/refs/heads/main/docs/PHITS_tools_banner.svg" alt="PHITS Tools banner" style="height: 10em; max-width: 90%; width: auto;">
+  <a href="https://github.com/Lindt8/PHITS-Tools" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Lindt8/PHITS-Tools/refs/heads/main/docs/PHITS_tools_banner.svg" alt="PHITS Tools banner" style="height: 10em; max-width: 90%; width: auto;">
+  </a>
 </p>
 
 ### PHITS universal output parser/processor
