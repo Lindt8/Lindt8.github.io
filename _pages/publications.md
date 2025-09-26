@@ -23,7 +23,7 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 2025 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
 
-* "[__The PHITS Tools Python package for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes__](https://doi.org/10.21105/joss.08311)," <u>H.N. Ratliff</u>, Journal of Open Source Software. [![DOI](https://joss.theoj.org/papers/10.21105/joss.08311/status.svg)](https://doi.org/10.21105/joss.08311)
+* "[__The PHITS Tools Python package for parsing, organizing, and analyzing results from the PHITS radiation transport and DCHAIN activation codes__](https://doi.org/10.21105/joss.08311)," <u>H.N. Ratliff</u>, Journal of Open Source Software, 10(113), 8311, September 2025. [![DOI](https://joss.theoj.org/papers/10.21105/joss.08311/status.svg)](https://doi.org/10.21105/joss.08311)
    * [<font color="#709E4A">[Direct link to PHITS Tools GitHub repository]</font>](https://github.com/Lindt8/PHITS-Tools/)
    * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://joss.theoj.org/papers/10.21105/joss.08311) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by_tiny.svg"></a>
 
