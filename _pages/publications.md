@@ -109,6 +109,9 @@ Dissertation
 
 Data Publications
 -----
+* "[__PHITS simulations for miniNOVO design: Explorations of performance implications of design decisions for a demonstrator plastic-scintillator-based dual-particle detection system__](https://doi.org/10.18710/KBZZ9T),"
+<u>H.N. Ratliff</u>, DataverseNO, V1, October 2025. [Data set]
+
 * "[__Neutron imaging and light output calibration with the miniNOVO prototype at the Physikalisch-Technische Bundesanstalt (PTB) Braunschweig__](https://doi.org/10.14278/rodare.3827),"
 J. Turko, B. Lutz, I. Meric, S.T. Müller, <u>H.N. Ratliff</u>, K.E. Römer, K. Urban, and T. Kögler, Rodare, June 2025. [Data set]
 
