@@ -37,6 +37,14 @@ This is a simple Python module containing a collection of functions that I have 
 [<font color="#709E4A">[Documentation]</font>](http://lindt8.github.io/Hunters-tools/)
 
 
+[<u>ng-imager</u>](https://github.com/Lindt8/ng-imager)
+======
+### Neutron and gamma ray imaging code package
+This Python package is for imaging neutrons and gamma rays, as detected by a multi-element detector array consisting of long-form-factor organic scintillators with dual-ended light readout. It is a modular tookit that turns detector-level coincident hit data into images via a clean, restartable pipeline, hits → events → cones → images.  It features explicit separation of physics, geometry, imaging, configuration, and I/O; flexible neutron energy deposition calculation strategies; unified neutron and gamma imaging, including proton vs carbon recoil handling; structured hit / event / cone filters with detailed counters; and a self-describing HDF5 output suitable for long-term analysis and archiving.
+
+[<font color="#709E4A">[Documentation]</font>](http://lindt8.github.io/ng-imager/)
+
+
 [<u>DCHAIN Tools</u>](https://github.com/Lindt8/DCHAIN-Tools) [![DOI](https://joss.theoj.org/papers/10.21105/joss.08311/status.svg)](https://doi.org/10.21105/joss.08311) [![PyPI - Version](https://img.shields.io/pypi/v/PHITS-Tools?logo=pypi&logoColor=fff&label=PyPI)](https://pypi.org/project/PHITS-Tools/) [![Documentation](https://img.shields.io/badge/Documentation-brightgreen)](https://lindt8.github.io/DCHAIN-Tools/) <!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14267236.svg)](https://doi.org/10.5281/zenodo.14267236)-->
 ======
 ### DCHAIN-PHITS output parser/processor and toolkit
