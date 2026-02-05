@@ -57,6 +57,12 @@ While originally developed as a standalone module (and still usable as such), it
 [<font color="#709E4A">[Documentation]</font>](https://lindt8.github.io/DCHAIN-Tools/)
 
 
+[<u>PHITS Router (macOS)</u>](https://github.com/Lindt8/phits-router-macos)
+======
+### a macOS Automater app for routing PHITS-related files
+This is a small macOS Automator app that replaces the need to keep multiple PHITS-related apps in the Dock (PHITS, DCHAIN, ANGEL, PHIG-3D, and PHITS-Pad) and provides a macOS-native equivalent to Windows’ “Send To” method of executing/opening files. By associating PHITS-related file extensions (like `.inp` and `.out`) with PHITS Router, one can quickly send a PHITS-related file to a selected suitable app (of several) directly with held modifier keys when double-clikcing/opening it, or with no modifiers to select the destination app from a chooser window.
+
+
 [<u>SHAEDIT</u>](https://github.com/Lindt8/SHAEDIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1287860.svg)](https://doi.org/10.5281/zenodo.1287860)
 ======
 ### Space Hadron Accelerator Experiment Data Investigation Tool
