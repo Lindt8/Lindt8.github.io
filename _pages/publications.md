@@ -109,6 +109,9 @@ Dissertation
 
 Data Publications
 -----
+* "[__First tests of the NOVO Compact Detector Array at a Proton Facility (OncoRay)__](https://doi.org/10.14278/rodare.4444),"
+S.T. Müller, B. Akgun, A. Bekkevoll, S. Blorstad Thu, A. Engebertsen, T. Jagt, G. Pausch, T.B. Phan, <u>H.N. Ratliff</u>, K. Römer, K.S. Ytre-Hauge, C. Stokkevag, E. Tarakoglu, J. Turko, A. Wolf, B. Yazici, and T. Kögler, Rodare, February 2026. [Data set]
+
 * "[__PHITS simulations of neutron and gamma-ray production from and transport of 70–250 MeV protons in heterogeneous 1D tissue phantoms__](https://doi.org/10.14278/rodare.3996),"
 <u>H.N. Ratliff</u>, F. Blangiardi, and T. Kögler, Rodare, February 2026. [Data set]
 
