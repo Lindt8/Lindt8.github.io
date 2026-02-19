@@ -109,6 +109,12 @@ Dissertation
 
 Data Publications
 -----
+* "[__PHITS simulations of neutron and gamma-ray production from and transport of 70–250 MeV protons in heterogeneous 1D tissue phantoms__](https://doi.org/10.14278/rodare.3996),"
+<u>H.N. Ratliff</u>, F. Blangiardi, and T. Kögler, Rodare, February 2026. [Data set]
+
+* "[__Proton and Neutron reduced phase space for surrogate modeling of Proton Therapy from PHITS simulations__](https://doi.org/10.14278/rodare.4128),"
+F. Blangiardi, <u>H.N. Ratliff</u>, and T. Kögler, Rodare, November 2025. [Data set]
+
 * "[__PHITS simulations for miniNOVO design: Explorations of performance implications of design decisions for a demonstrator plastic-scintillator-based dual-particle detection system__](https://doi.org/10.18710/KBZZ9T),"
 <u>H.N. Ratliff</u>, DataverseNO, V1, October 2025. [Data set]
 
