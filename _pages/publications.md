@@ -18,7 +18,17 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 2024 &ensp;(<font color="#00aeba">HVL</font>)
 -->
 <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+
 ------
+
+
+
+2026 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+------
+* "[__Fast proton transport and neutron production in proton therapy using Fourier neural operators__](http://arxiv.org/abs/2603.03912)," F. Blangiardi, <u>H.N. Ratliff</u>, F. Teichert, K.S. Ytre-Hauge, J. Langer, I. Meric. _(in review)_
+   * [<font color="#709E4A">[Direct link to arXiv preprint of Submitted Article]</font>](http://arxiv.org/abs/2603.03912) 
+
+
 
 2025 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
