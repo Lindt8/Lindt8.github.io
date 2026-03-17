@@ -47,22 +47,6 @@
 		text-align: center;
 	}
 	
-	div.weather_time,
-	div.weather_time * {
-		color: #1B2631 !important;
-	}
-	
-	#temp,
-	#high,
-	#low,
-	#pop,
-	#sky,
-	#weekday,
-	#day,
-	#time {
-		color: #1B2631 !important;
-	}
-	
 	#temp,#high,#low,#pop,#sky,#icon,#weekday,#day,#time{
 	display: inline;
 	}
@@ -142,6 +126,18 @@
         xhr.send(null);
 	}
 	
+	function forceWeatherTextColor() {
+		var color = "#1B2631";
+		var ids = ["temp", "high", "low", "pop", "sky", "weekday", "day", "time"];
+	
+		for (var i = 0; i < ids.length; i++) {
+			var el = document.getElementById(ids[i]);
+			if (el) {
+				el.style.setProperty("color", color, "important");
+			}
+		}
+	}
+	
 	function updateWeather() {
 		console.log("in updateWeather");
 		document.getElementById("temp").innerText = temp + dc;
@@ -150,6 +146,7 @@
 		document.getElementById("pop").innerText = pop;
 		document.getElementById("sky").innerText = sky;
         document.getElementById("wicon").src = iconurl;
+        forceWeatherTextColor();
 	}
 	
 	function Weekday(num) {
@@ -287,7 +284,11 @@
 		var day = today.getDate();
 		document.getElementById("day").innerText = month + " " + day;
 		
-		setInterval(updateTime(today), 60000);
+		// setInterval(updateTime(today), 60000);
+		updateTime(today);
+		setInterval(function () {
+			updateTime(new Date());
+		}, 60000);
 		
 		// weather
 		retrieveWeather();
@@ -297,6 +298,7 @@
 	
 	window.onfocus = function() {
 		updateTime(new Date());
+		forceWeatherTextColor();
 	};
 	
 	</script>
