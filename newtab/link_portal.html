@@ -128,8 +128,16 @@
 	
 	function forceWeatherTextColor() {
 		var color = "#1B2631";
+		
+		// color the container text
+		var container = document.querySelector(".weather_time");
+		if (container) {
+			container.style.setProperty("color", color, "important");
+		}
+		
+		// color the dynamic elements
 		var ids = ["temp", "high", "low", "pop", "sky", "weekday", "day", "time"];
-	
+		
 		for (var i = 0; i < ids.length; i++) {
 			var el = document.getElementById(ids[i]);
 			if (el) {
