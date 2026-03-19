@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, spent four and a half years at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet) with the EU-funded [NOVO project](https://www.novo-project.eu/) as a postdoc and later researcher, and am presently working as a medical physicist / facility coordinator for the experimental proton research facilities at Haukeland University Hospital.
+I graduated with a PhD in nuclear engineering at The University of Tennessee, Knoxville in December 2018, spent two and a half years as a postdoc in the [PHITS](https://phits.jaea.go.jp/) development team at the Japan Atomic Energy Agency's Nuclear Science and Engineering Center, spent four and a half years at the Western Norway University of Applied Sciences (HVL, Høgskulen på Vestlandet) with the EU-funded [NOVO project](https://www.novo-project.eu/) as a postdoc and later researcher, and am presently working as a medical physicist (research & facility coordination) for the experimental proton research facilities at Haukeland University Hospital.
 
 At HVL I worked on the development, modeling, and analysis of a prototype radiation detector system seeking to help more precisely determine dose depositions delivered in proton radiotherapy treatments, allowing for sparing of more healthy tissue surrounding the sites receiving treatment.  At JAEA I was the lead developer of the DCHAIN-PHITS activation, buildup, burnup, and decay code which is coupled to and distributed with PHITS.  My PhD work at UTK involved modeling and experimentally measuring neutron production in space radiation-like environments as part of a NASA project investigating radiation shielding in space.
 
@@ -54,7 +54,7 @@ While in grad school, I worked on numerous space radiation modeling projects in 
 
 Events and career timeline
 ======
-* 2026/03/23 - Began work as a Medical Physicist and Facility Coordinator at Haukeland University Hospital
+* 2026/03/23 - Began work as a Medical Physicist (Research & Facility Coordination) at Haukeland University Hospital
 * 2026/03/19 - Ended work as a Researcher in Proton Therapy at the Western Norway University of Applied Sciences
 * 2024/10/07 - Began work as a Researcher in Proton Therapy at the Western Norway University of Applied Sciences
 * 2024/08/30 - Ended work as a Postdoctoral Fellow at the Western Norway University of Applied Sciences
