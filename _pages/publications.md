@@ -100,6 +100,7 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 ------
 * "[__Modernization of the DCHAIN-PHITS activation code with new features and updated data libraries__](https://doi.org/10.1016/j.nimb.2020.10.005)," <u>H.N. Ratliff</u>, N. Matsuda, S. Abe, T. Miura, T. Furuta, Y. Iwamoto, and T. Sato, Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 484, 29-41, December 2020.  <!-- (__<font color="#1F2CCA">JAEA</font>__) -->
    * [<font color="#709E4A">[Direct link to Accepted Manuscript]</font>](https://hratliff.com/files/DCHAIN_improvements_paper_Accepted-Manuscript.pdf) <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" img src="/files/by-nc-nd_tiny.svg"></a>
+   * [<font color="#709E4A">[Archive of data library composition procedures and formatting]</font>](https://doi.org/10.5281/zenodo.19845169)
 
 2018 &ensp;(<font color="#C1751F">UTK</font>)
 ------
