@@ -23,10 +23,10 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 
 
 
-2026 &ensp;(<font color="#00aeba">HVL</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
+2026 &ensp;(<font color="#003087">HUS</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-* "[__Fast proton transport and neutron production in proton therapy using Fourier neural operators__](http://arxiv.org/abs/2603.03912)," F. Blangiardi, <u>H.N. Ratliff</u>, F. Teichert, K.S. Ytre-Hauge, J. Langer, I. Meric. _(in review)_
-   * [<font color="#709E4A">[Direct link to arXiv preprint of Submitted Article]</font>](http://arxiv.org/abs/2603.03912) 
+* "[__Fast proton transport and neutron production in proton therapy using Fourier neural operators__](http://arxiv.org/abs/2603.03912)," F. Blangiardi, <u>H.N. Ratliff</u>, F. Teichert, K.S. Ytre-Hauge, J. Langer, I. Meric, Physics in Medicine and Biology, <!--70, 125011, -->June 2025. _(in press)_ (__<font color="#00aeba">HVL</font>__)
+   * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://doi.org/10.1088/1361-6560/ae7890) 
 
 
 
@@ -153,6 +153,7 @@ Technical Notes
 * __<font color="#C1751F">UTK</font>__ : The University of Tennessee, Knoxville
 * __<font color="#407ff5">JAEA</font>__ : Japan Atomic Energy Agency
 * __<font color="#00aeba">HVL</font>__ : Western Norway University of Applied Sciences (Høgskulen på Vestlandet)
+* __<font color="#003087">HUS</font>__ : Haukeland University Hospital (Haukeland universitetssjukehus)
 
 Next to each year is my primary affiliation at that time; for any publications where my primary affiliation differed from that of my employment, the main affiliation associated with the work is noted at the end of the entry.
 
