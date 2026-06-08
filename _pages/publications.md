@@ -25,7 +25,7 @@ You can also find my articles on [<font color="#709E4A">my Google Scholar profil
 
 2026 &ensp;(<font color="#003087">HUS</font>) <!-- &ensp;(<font color="#1F2CCA">JAEA</font><font color="#C1751F">UTK</font>) -->
 ------
-* "[__Fast proton transport and neutron production in proton therapy using Fourier neural operators__](http://arxiv.org/abs/2603.03912)," F. Blangiardi, <u>H.N. Ratliff</u>, F. Teichert, K.S. Ytre-Hauge, J. Langer, I. Meric, Physics in Medicine and Biology, <!--70, 125011, -->June 2025. _(in press)_ (__<font color="#00aeba">HVL</font>__)
+* "[__Fast proton transport and neutron production in proton therapy using Fourier neural operators__](https://doi.org/10.1088/1361-6560/ae7890)," F. Blangiardi, <u>H.N. Ratliff</u>, F. Teichert, K.S. Ytre-Hauge, J. Langer, I. Meric, Physics in Medicine and Biology, <!--70, 125011, -->June 2025. _(in press)_ (__<font color="#00aeba">HVL</font>__)
    * [<font color="#709E4A">[Direct link to Open Access Article]</font>](https://doi.org/10.1088/1361-6560/ae7890) 
 
 
