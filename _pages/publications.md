@@ -145,6 +145,9 @@ J. Turko, B. Lutz, I. Meric, S.T. Müller, <u>H.N. Ratliff</u>, K.E. Römer, K. 
 
 Technical Notes
 -----
+* "[__A primer on construction, selection, and filtering of neutron and gamma-ray event cones, applied to simple back projection imaging__](https://hratliff.com/files/imaging-primer_physical-data-to-images.pdf)," <u>H.N. Ratliff</u>, March 2026, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18979385.svg)](https://doi.org/10.5281/zenodo.18979385).
+
+
 * "[__Cartesian formulas for curvature, circumradius, and circumcenter for any three two-dimensional points__](https://hratliff.com/files/curvature_calculations_and_circle_fitting.pdf)," <u>H.N. Ratliff</u>, February 2019, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2556424.svg)](https://doi.org/10.5281/zenodo.2556424).
 
 
